@@ -1,0 +1,1930 @@
+GeneID,Essential,Class,Complex,Phenotype,Motif,Chromosome,Function,Localization
+G234273,Essential,ATPases,Chaperonine containing T-complex TRiC (TCP RING Complex),Cell morphology and organelle mutants,?,4,?,?
+G234490,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00028,8,?,?
+G236380,?,?,?,?,?,7,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell cycle defects,PS00432,6,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00190,6,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS01159,5,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,15,?,?
+G235319,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,5,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00297,10,?,?
+G236758,Non-Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G234364,?,Protein Kinases,Casein kinase,?,PS00108,5,?,?
+G238800,Non-Essential,?,?,Stress response defects,?,?,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G237124,Essential,?,?,Conditional phenotypes,?,13,?,?
+G235916,Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00782,?,?,?
+G235909,Essential,?,Replication complexes,Nucleic acid metabolism defects,PS00847,16,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Mating and sporulation defects,PS00108,16,?,?
+G235488,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Stress response defects,PS00678,9,?,?
+G235268,Essential,?,Kinetochore protein complexes,Cell cycle defects,?,4,?,?
+G235748,Non-Essential,?,RNA processing complexes,Conditional phenotypes,?,13,?,?
+G234189,?,Transcription factors,?,?,PS00463,3,?,?
+G236813,Non-Essential,?,?,Cell cycle defects,?,16,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,8,?,?
+G235354,Essential,?,Proteasome,Cell cycle defects,?,6,?,?
+G235389,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,7,?,?
+G235233,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,4,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,PS00108,16,?,?
+G234791,Non-Essential,GTP-binding proteins,Translation complexes,?,PS00017,13,?,?
+G235538,Essential,?,Replication complexes,Cell morphology and organelle mutants,?,10,?,?
+G236279,Non-Essential,?,?,?,PS00867,7,?,?
+G237321,Non-Essential,?,?,Conditional phenotypes,?,7,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,16,?,?
+G235319,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,5,?,?
+G235367,Essential,?,Nuclear pore complex (NPC),Cell morphology and organelle mutants,?,7,?,?
+G235855,?,?,Proteasome,?,PS00387,15,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Mating and sporulation defects,?,1,?,?
+G235746,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,13,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00299,12,?,?
+G235094,Non-Essential,?,Respiration chain complexes,"Auxotrophies, carbon and",PS00078,?,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,7,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00017,16,?,?
+G239304,Non-Essential,?,?,Mating and sporulation defects,PS00225,10,?,?
+G238662,Non-Essential,?,?,Nucleic acid metabolism defects,?,2,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",PS00038,10,?,?
+G235908,Non-Essential,?,Assembly complexes,Nucleic acid metabolism defects,?,16,?,?
+G235236,Essential,?,RNA processing complexes,?,?,4,?,?
+G237392,Non-Essential,?,?,?,?,7,?,?
+G237587,Ambiguous-Essential,?,?,Cell cycle defects,PS00765,2,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,"Auxotrophies, carbon and",PS00017,4,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,16,?,?
+G239938,Non-Essential,?,?,Conditional phenotypes,PS00037,13,?,?
+G234773,Non-Essential,ATPases,?,Nucleic acid metabolism defects,PS00017,13,?,?
+G238132,Non-Essential,?,?,Stress response defects,?,16,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Conditional phenotypes,?,2,?,?
+G235224,Non-Essential,?,Translocon,Carbohydrate and lipid biosynthesis defects,?,4,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,14,?,?
+G234470,Ambiguous-Essential,Major facilitator superfamily proteins (MFS),?,Stress response defects,PS00218,7,?,?
+G234199,Essential,Ubiquitin-system proteins,?,Cell cycle defects,PS00183,4,?,?
+G234268,Non-Essential,Ubiquitin-system proteins,?,?,?,4,?,?
+G234213,Non-Essential,GTP-binding proteins,?,?,PS01019,4,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00017,16,?,?
+G237587,Ambiguous-Essential,?,?,Cell cycle defects,PS00174,2,?,?
+G234671,Essential,Other kinases,?,Sensitivity to immunosuppressants,?,11,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00637,6,?,?
+G234081,Non-Essential,Histones,Nucleosomal protein complex,"Auxotrophies, carbon and",PS00357,2,?,?
+G236812,Essential,?,?,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G235369,Non-Essential,?,Nuclear pore complex (NPC),Mating and sporulation defects,?,7,?,?
+G235055,Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,?,?,16,?,?
+G235547,Non-Essential,?,Cytoskeleton,Cell cycle defects,?,10,?,?
+G239835,Non-Essential,?,?,Unknown,?,4,?,?
+G236380,?,?,?,?,?,7,?,?
+G240373,Non-Essential,?,?,Conditional phenotypes,?,4,?,?
+G237387,Non-Essential,?,?,Cell cycle defects,?,14,?,?
+G235356,Essential,?,Translocon,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G234531,Non-Essential,ATPases,?,?,PS00017,9,?,?
+G235612,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,12,?,?
+G235831,Essential,?,Translocon,?,?,15,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Carbohydrate and lipid biosynthesis defects,?,5,?,?
+G235387,Ambiguous-Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00402,7,?,?
+G235612,Non-Essential,?,Histone acetyltransferase complexes,Mating and sporulation defects,?,12,?,?
+G234412,Non-Essential,Transcription factors,?,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G235605,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00325,12,?,?
+G234790,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00183,13,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,PS00108,16,?,?
+G239974,Non-Essential,?,?,"Auxotrophies, carbon and",PS00480,3,?,?
+G235109,Essential,?,RNA processing complexes,?,?,2,?,?
+G234711,Non-Essential,Transcription factors,?,?,PS00343,12,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,PS00038,10,?,?
+G235778,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,14,?,?
+G234490,Non-Essential,Transcription factors,?,Unknown,PS00028,8,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00299,12,?,?
+G235339,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00017,?,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,5,?,?
+G234739,Essential,ATPases,Translation complexes,Cell morphology and organelle mutants,PS00211,12,?,?
+G235635,Essential,?,RNA processing complexes,Conditional phenotypes,PS00017,12,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",?,1,?,?
+G234414,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00687,7,?,?
+G234339,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS00017,5,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell morphology and organelle mutants,?,4,?,?
+G235908,Non-Essential,?,Assembly complexes,Nucleic acid metabolism defects,?,16,?,?
+G234515,Non-Essential,Transcription factors,?,Conditional phenotypes,?,8,?,?
+G234739,Essential,ATPases,Translation complexes,Cell morphology and organelle mutants,PS00017,12,?,?
+G235223,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,?,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00014,10,?,?
+G234112,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00153,2,?,?
+G235562,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,11,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Conditional phenotypes,?,2,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,"Auxotrophies, carbon and",PS00017,4,?,?
+G235354,Essential,?,Proteasome,Cell cycle defects,?,6,?,?
+G239273,Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G236838,Non-Essential,?,?,Conditional phenotypes,PS01188,12,?,?
+G235337,Essential,?,RNA processing complexes,Conditional phenotypes,PS00017,5,?,?
+G237196,Non-Essential,?,?,?,?,16,?,?
+G235507,Essential,?,Cytoskeleton,Cell cycle defects,PS00018,9,?,?
+G236066,Essential,?,?,Cell morphology and organelle mutants,PS00951,2,?,?
+G235901,Non-Essential,?,Cytoskeleton,Cell cycle defects,?,?,?,?
+G235121,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,2,?,?
+G235770,Non-Essential,?,Gim complexes,Mating and sporulation defects,?,14,?,?
+G235354,Essential,?,Proteasome,Sensitivity to aminoacid analogs and other drugs,?,6,?,?
+G234798,Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00350,13,?,?
+G237100,Non-Essential,?,?,Conditional phenotypes,?,11,?,?
+G235354,Essential,?,Proteasome,Stress response defects,?,6,?,?
+G236279,Non-Essential,?,?,?,PS00188,7,?,?
+G235605,Essential,?,Cytoskeleton,Conditional phenotypes,PS00325,12,?,?
+G234940,Non-Essential,GTP-binding proteins,?,Conditional phenotypes,?,15,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,14,?,?
+G234785,Non-Essential,Tubulins,Cytoskeleton,Mating and sporulation defects,PS00227,?,?,?
+G237747,Non-Essential,?,?,?,?,7,?,?
+G237429,Non-Essential,?,?,Cell morphology and organelle mutants,?,13,?,?
+G235440,Essential,?,Proteasome,Cell morphology and organelle mutants,PS00388,7,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00299,12,?,?
+G238063,Essential,?,?,Conditional phenotypes,?,15,?,?
+G239825,Non-Essential,?,?,?,PS00187,12,?,?
+G234394,Essential,Actins,Cytoskeleton,Conditional phenotypes,PS00406,6,?,?
+G235612,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,12,?,?
+G235770,Non-Essential,?,Gim complexes,Unknown,?,14,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Stress response defects,?,16,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,16,?,?
+G235638,Non-Essential,?,Intracellular transport complexes,Unknown,?,12,?,?
+G234273,Essential,Molecular chaperones,Chaperonine containing T-complex TRiC (TCP RING Complex),Cell morphology and organelle mutants,?,4,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,"Auxotrophies, carbon and",PS00301,4,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00329,10,?,?
+G235440,Essential,?,Proteasome,Mating and sporulation defects,PS00388,7,?,?
+G238723,Essential,?,?,Nucleic acid metabolism defects,?,7,?,?
+G234521,Non-Essential,Actin related proteins,Cytoskeleton,Cell morphology and organelle mutants,PS01132,8,?,?
+G234120,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,2,?,?
+G234940,Non-Essential,GTP-binding proteins,?,Cell morphology and organelle mutants,?,15,?,?
+G235215,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,4,?,?
+G238809,Non-Essential,?,?,Cell cycle defects,?,8,?,?
+G234333,Non-Essential,Proteases,?,?,PS00137,5,?,?
+G234120,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,2,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00973,4,?,?
+G239825,Non-Essential,?,?,?,PS00187,12,?,?
+G236523,Non-Essential,?,?,Cell cycle defects,PS00633,12,?,?
+G236523,Non-Essential,?,?,Cell morphology and organelle mutants,PS00633,12,?,?
+G235440,Essential,?,Proteasome,Cell morphology and organelle mutants,PS00388,7,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Stress response defects,?,16,?,?
+G239856,Essential,?,?,Cell morphology and organelle mutants,?,13,?,?
+G234958,Essential,Transcription factors,Transcription complexes/Transcriptosome,?,?,15,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,5,?,?
+G234940,Non-Essential,GTP-binding proteins,?,Conditional phenotypes,?,15,?,?
+G238132,Non-Essential,?,?,Cell morphology and organelle mutants,?,16,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,8,?,?
+G234283,Non-Essential,ATPases,?,?,PS00154,4,?,?
+G234653,Essential,Polymerases,Transcription complexes/Transcriptosome,?,?,?,?,?
+G239913,Ambiguous-Non-Essential,?,?,?,?,15,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00637,6,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00017,7,?,?
+G236813,Non-Essential,?,?,Cell cycle defects,?,16,?,?
+G240057,Essential,?,?,?,?,16,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00674,16,?,?
+G236021,Non-Essential,?,?,Conditional phenotypes,PS00215,4,?,?
+G238723,Essential,?,?,Conditional phenotypes,?,7,?,?
+G239588,Non-Essential,?,?,"Auxotrophies, carbon and",?,10,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00625,7,?,?
+G235533,Non-Essential,?,Transcription complexes/Transcriptosome,?,?,10,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,15,?,?
+G235050,Essential,Polymerases,Transcription complexes/Transcriptosome,?,PS01166,?,?,?
+G234414,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00687,7,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,15,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,PS00038,10,?,?
+G235576,Non-Essential,?,Translocon,Conditional phenotypes,?,?,?,?
+G234698,Non-Essential,GTP/GDP-exchange factors (GEFs),?,?,PS00720,12,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,8,?,?
+G235503,Non-Essential,?,Cytoskeleton,?,?,9,?,?
+G237406,Essential,?,?,Cell cycle defects,PS00225,?,?,?
+G240407,Non-Essential,?,?,?,PS00191,13,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00871,12,?,?
+G234515,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,?,8,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Cell morphology and organelle mutants,?,1,?,?
+G235376,Non-Essential,?,Translation complexes,Conditional phenotypes,PS01199,7,?,?
+G235268,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,15,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00871,12,?,?
+G234974,Essential,ATPases,Proteasome,Cell cycle defects,?,15,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G235882,Essential,?,Intracellular transport complexes,?,PS00017,16,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G240296,Essential,?,?,Carbohydrate and lipid biosynthesis defects,PS00379,?,?,?
+G235110,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,2,?,?
+G235770,Non-Essential,?,Gim complexes,Cell morphology and organelle mutants,?,14,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,14,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,?,15,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial",Cell morphology and organelle mutants,PS01046,2,?,?
+G235220,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00678,4,?,?
+G237670,Essential,?,?,?,?,2,?,?
+G234773,Non-Essential,ATPases,?,Nucleic acid metabolism defects,PS00017,13,?,?
+G234798,Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00350,13,?,?
+G235112,Essential,?,?,?,?,?,?,?
+G239517,Non-Essential,?,?,?,PS00294,14,?,?
+G234791,Non-Essential,GTP-binding proteins,RNA processing complexes,?,PS00017,13,?,?
+G235160,Essential,?,?,Cell morphology and organelle mutants,?,2,?,?
+G235276,Non-Essential,?,Translation complexes,?,?,4,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell morphology and organelle mutants,PS00432,6,?,?
+G235493,Essential,?,Exocyst complex,Cell morphology and organelle mutants,?,9,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Stress response defects,PS00501,13,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G237043,Non-Essential,?,?,?,?,15,?,?
+G235547,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,10,?,?
+G234573,Essential,ATPases,Translocon,?,PS00017,10,?,?
+G235547,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,10,?,?
+G234314,Non-Essential,Protein Kinases,?,"Auxotrophies, carbon and",PS00107,4,?,?
+G234728,Ambiguous-Essential,Ubiquitin-system proteins,Translation complexes,?,PS00190,12,?,?
+G234231,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00297,4,?,?
+G235337,Essential,?,RNA processing complexes,Mating and sporulation defects,PS00017,5,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,5,?,?
+G235488,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Stress response defects,PS00678,9,?,?
+G235576,Non-Essential,?,Translocon,Conditional phenotypes,?,?,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS01159,5,?,?
+G234216,Essential,ATPases,Proteasome,?,?,4,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to aminoacid analogs and other drugs,PS00036,6,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,PS00038,10,?,?
+G234175,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00735,3,?,?
+G235050,Essential,Polymerases,Transcription complexes/Transcriptosome,?,PS01166,?,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00434,7,?,?
+G236279,Non-Essential,?,?,?,PS00867,7,?,?
+G234373,Non-Essential,Transcription factors,?,?,?,5,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00017,16,?,?
+G239835,Non-Essential,?,?,Stress response defects,?,4,?,?
+G234515,Non-Essential,Transcription factors,?,Cell cycle defects,?,8,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,15,?,?
+G237656,Non-Essential,?,?,?,?,15,?,?
+G235356,Essential,?,Translocon,Conditional phenotypes,?,7,?,?
+G234490,Non-Essential,Transcription factors,?,Conditional phenotypes,PS00028,8,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00972,4,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00973,4,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS01159,5,?,?
+G235770,Non-Essential,?,Gim complexes,Unknown,?,14,?,?
+G234728,Ambiguous-Essential,Ubiquitin-system proteins,Translation complexes,?,PS00299,12,?,?
+G235795,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,14,?,?
+G234711,Non-Essential,Transcription factors,?,?,PS00343,12,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Stress response defects,PS00501,13,?,?
+G234339,Non-Essential,ATPases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS00017,5,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00636,6,?,?
+G234739,Essential,ATPases,Translation complexes,Unknown,PS00211,12,?,?
+G239343,Non-Essential,?,?,?,?,2,?,?
+G234671,Essential,Other kinases,?,Cell morphology and organelle mutants,?,11,?,?
+G234394,Essential,Actins,Cytoskeleton,Conditional phenotypes,PS00432,6,?,?
+G238783,Non-Essential,?,?,Nucleic acid metabolism defects,?,?,?,?
+G234618,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell cycle defects,?,10,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,16,?,?
+G235069,Essential,Polymerases,Transcription complexes/Transcriptosome,?,PS00446,?,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS00017,4,?,?
+G235414,Essential,?,Sister chromatid cohesion regulation complex,Cell morphology and organelle mutants,?,?,?,?
+G234333,Non-Essential,Proteases,?,?,PS00136,5,?,?
+G235695,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,?,?,?
+G235646,Essential,?,Cytoskeleton,Cell cycle defects,?,12,?,?
+G235106,Essential,?,RNA processing complexes,?,?,1,?,?
+G235538,Essential,?,Replication complexes,Cell morphology and organelle mutants,?,10,?,?
+G238132,Non-Essential,?,?,Stress response defects,?,16,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,2,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell cycle defects,PS00406,6,?,?
+G235055,Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,?,?,16,?,?
+G237429,Non-Essential,?,?,Sensitivity to aminoacid analogs and other drugs,?,13,?,?
+G235150,Non-Essential,?,Translocon,Cell morphology and organelle mutants,?,2,?,?
+G234515,Non-Essential,Transcription factors,?,Conditional phenotypes,?,8,?,?
+G235233,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,4,?,?
+G234806,Non-Essential,Motorproteins,Cytoskeleton,?,PS00017,13,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00329,10,?,?
+G235424,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G234203,Essential,Polymerases,Replication complexes,Nucleic acid metabolism defects,PS00116,4,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G235111,Non-Essential,?,Translation complexes,Conditional phenotypes,?,2,?,?
+G234615,Essential,Actin related proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS01132,10,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,"Auxotrophies, carbon and",?,15,?,?
+G235339,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,?,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,14,?,?
+G238063,Essential,?,?,Conditional phenotypes,?,15,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00017,7,?,?
+G234521,Non-Essential,Actin related proteins,Cytoskeleton,Cell morphology and organelle mutants,PS01132,8,?,?
+G236838,Non-Essential,?,?,Conditional phenotypes,PS01188,12,?,?
+G235746,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,13,?,?
+G237587,Ambiguous-Essential,?,?,"Auxotrophies, carbon and",PS00174,2,?,?
+G235778,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,14,?,?
+G234750,Essential,GTP-binding proteins,?,?,?,12,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Stress response defects,PS01019,4,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00299,12,?,?
+G235354,Essential,?,Proteasome,Conditional phenotypes,?,6,?,?
+G235882,Essential,?,Intracellular transport complexes,?,PS00017,16,?,?
+G234813,Non-Essential,Proteases,"Proteases, mitochondrial",?,PS00760,?,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Cell morphology and organelle mutants,PS00017,7,?,?
+G235118,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00012,2,?,?
+G235389,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G239572,Non-Essential,?,?,Cell morphology and organelle mutants,PS00017,16,?,?
+G234521,Non-Essential,Actin related proteins,Cytoskeleton,Cell morphology and organelle mutants,PS01132,8,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,14,?,?
+G235121,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,2,?,?
+G234834,Non-Essential,Ubiquitin-system proteins,?,?,PS00299,13,?,?
+G236380,?,?,?,?,?,7,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Conditional phenotypes,?,4,?,?
+G234179,?,Transcription factors,?,?,?,3,?,?
+G234405,Essential,ATPases,?,Cell cycle defects,PS00211,?,?,?
+G239574,Essential,?,?,?,?,12,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS00017,2,?,?
+G237587,Ambiguous-Essential,?,?,Cell cycle defects,PS00765,2,?,?
+G235605,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00325,12,?,?
+G237059,Non-Essential,?,?,Conditional phenotypes,PS01202,2,?,?
+G235166,Essential,?,RNA processing complexes,?,?,2,?,?
+G235354,Essential,?,Proteasome,Conditional phenotypes,?,6,?,?
+G235224,Non-Essential,?,Translocon,Cell morphology and organelle mutants,?,4,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,5,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00972,4,?,?
+G235121,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,2,?,?
+G234515,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,?,8,?,?
+G235354,Essential,?,Proteasome,Cell cycle defects,?,6,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial",Cell morphology and organelle mutants,PS01046,2,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS00017,2,?,?
+G235224,Non-Essential,?,Translocon,Cell morphology and organelle mutants,?,4,?,?
+G235051,Non-Essential,GTP/GDP-exchange factors (GEFs),?,?,?,16,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,14,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Carbohydrate and lipid biosynthesis defects,?,5,?,?
+G235777,Essential,?,RNA processing complexes,Conditional phenotypes,?,14,?,?
+G236523,Non-Essential,?,?,Cell morphology and organelle mutants,PS00633,12,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00499,5,?,?
+G234414,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00687,7,?,?
+G235547,Non-Essential,?,Cytoskeleton,Cell cycle defects,?,10,?,?
+G234741,Essential,ATPases,?,?,PS00296,12,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,"Auxotrophies, carbon and",PS01175,13,?,?
+G239593,Non-Essential,?,?,?,PS00928,4,?,?
+G234617,Non-Essential,GTP-binding proteins,?,?,PS00294,10,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00434,7,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G237429,Non-Essential,?,?,Unknown,?,13,?,?
+G235761,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,14,?,?
+G235589,Non-Essential,?,Translation complexes,?,?,11,?,?
+G240407,Non-Essential,?,?,?,PS00557,13,?,?
+G234688,Essential,ATPases,RNA processing complexes,Conditional phenotypes,PS00690,?,?,?
+G236831,Non-Essential,?,?,Cell morphology and organelle mutants,PS00028,4,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Mating and sporulation defects,?,14,?,?
+G234534,Essential,Molecular chaperones,Mitochondrial translocase complex,Cell morphology and organelle mutants,PS00017,9,?,?
+G234394,Essential,Actins,Cytoskeleton,Conditional phenotypes,PS00432,6,?,?
+G235778,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,14,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,1,?,?
+G235933,Non-Essential,?,?,?,PS00215,13,?,?
+G235848,Essential,?,Replication complexes,Cell cycle defects,PS00017,15,?,?
+G236523,Non-Essential,?,?,"Auxotrophies, carbon and",PS00633,12,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00329,10,?,?
+G235224,Non-Essential,?,Translocon,Conditional phenotypes,?,4,?,?
+G235387,Ambiguous-Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00402,7,?,?
+G235454,Essential,?,Mitochondrial translocase complex,Cell morphology and organelle mutants,?,8,?,?
+G235904,Non-Essential,?,Histone acetyltransferase complexes,Conditional phenotypes,?,?,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00434,7,?,?
+G239517,Non-Essential,?,?,?,PS00294,14,?,?
+G234179,?,Transcription factors,?,?,?,3,?,?
+G237587,Ambiguous-Essential,?,?,"Auxotrophies, carbon and",PS00765,2,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,7,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS01159,5,?,?
+G235767,Essential,?,Mitochondrial translocase complex,?,?,14,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",PS00108,16,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,Conditional phenotypes,?,15,?,?
+G234741,Essential,ATPases,?,?,PS00296,12,?,?
+G234590,Non-Essential,Polymerases,Transcription complexes/Transcriptosome,Conditional phenotypes,?,10,?,?
+G235562,Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,11,?,?
+G235356,Essential,?,Translocon,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell morphology and organelle mutants,?,4,?,?
+G236838,Non-Essential,?,?,Carbohydrate and lipid biosynthesis defects,PS01188,12,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00017,7,?,?
+G238147,Non-Essential,?,?,Mating and sporulation defects,?,?,?,?
+G235571,Non-Essential,?,Translation complexes,?,?,11,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Conditional phenotypes,?,5,?,?
+G235220,Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00678,4,?,?
+G234298,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00865,4,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00017,16,?,?
+G235538,Essential,?,Replication complexes,Cell cycle defects,?,10,?,?
+G238723,Essential,?,?,Cell cycle defects,?,7,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Nucleic acid metabolism defects,PS00690,5,?,?
+G236099,Essential,?,?,Cell cycle defects,?,7,?,?
+G236523,Non-Essential,?,?,Nucleic acid metabolism defects,PS00633,12,?,?
+G235795,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,14,?,?
+G235916,Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,PS00782,?,?,?
+G235704,Non-Essential,?,?,?,?,13,?,?
+G234798,Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00350,13,?,?
+G239593,Non-Essential,?,?,?,PS00928,4,?,?
+G235454,Essential,?,RNA processing complexes,Cell morphology and organelle mutants,?,8,?,?
+G235908,Non-Essential,?,Assembly complexes,Nucleic acid metabolism defects,?,16,?,?
+G236831,Non-Essential,?,?,Conditional phenotypes,PS00028,4,?,?
+G235082,Essential,Polymerases,Replication complexes,Unknown,PS00179,?,?,?
+G235804,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,15,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,7,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Cell morphology and organelle mutants,?,1,?,?
+G235831,Essential,?,Translocon,?,?,15,?,?
+G235389,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,7,?,?
+G234945,Essential,Polymerases,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00190,15,?,?
+G237337,Non-Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G235860,Essential,?,RNA processing complexes,Conditional phenotypes,?,15,?,?
+G236831,Non-Essential,?,?,Conditional phenotypes,PS00028,4,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Carbohydrate and lipid biosynthesis defects,?,5,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00973,4,?,?
+G234531,Non-Essential,ATPases,?,?,PS00211,9,?,?
+G235033,Essential,Protein Kinases,Casein kinase,Nucleic acid metabolism defects,PS00107,16,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00017,7,?,?
+G235520,Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,10,?,?
+G235695,Non-Essential,?,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,?,?,?,?
+G240072,Non-Essential,?,?,Stress response defects,PS01047,14,?,?
+G234977,Non-Essential,ATPases,"H+-transporting ATPase, vacuolar",Cell morphology and organelle mutants,?,15,?,?
+G235233,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,4,?,?
+G234414,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,PS00687,7,?,?
+G235150,Non-Essential,?,Translocon,Cell morphology and organelle mutants,?,2,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,16,?,?
+G240237,Non-Essential,?,?,?,?,12,?,?
+G235857,Non-Essential,?,Translation complexes,?,?,15,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Nucleic acid metabolism defects,PS00017,5,?,?
+G235377,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00678,7,?,?
+G235150,Non-Essential,?,Translocon,Conditional phenotypes,?,2,?,?
+G236831,Non-Essential,?,?,Cell morphology and organelle mutants,PS00028,4,?,?
+G236523,Non-Essential,?,?,"Auxotrophies, carbon and",PS00633,12,?,?
+G239162,Non-Essential,?,?,Cell morphology and organelle mutants,PS00215,4,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS01159,5,?,?
+G235767,Essential,?,Mitochondrial translocase complex,?,?,14,?,?
+G235646,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,12,?,?
+G235353,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,6,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00299,12,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00017,12,?,?
+G238920,Non-Essential,?,?,Nucleic acid metabolism defects,PS00136,?,?,?
+G236523,Non-Essential,?,?,Cell cycle defects,PS00633,12,?,?
+G235183,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,?,?,?
+G235505,Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,9,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00299,12,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00017,16,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Stress response defects,?,16,?,?
+G234922,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",?,15,?,?
+G240072,Non-Essential,?,?,Stress response defects,PS01047,14,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Conditional phenotypes,PS00755,12,?,?
+G238132,Non-Essential,?,?,Cell morphology and organelle mutants,?,16,?,?
+G236771,Non-Essential,?,?,Cell morphology and organelle mutants,PS00599,?,?,?
+G234412,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,?,7,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G234785,Non-Essential,Tubulins,Cytoskeleton,Mating and sporulation defects,PS00227,?,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,Mating and sporulation defects,?,15,?,?
+G235524,Non-Essential,?,Ornithine carbamoyltransferase,?,PS00097,10,?,?
+G234974,Essential,ATPases,Proteasome,Cell cycle defects,?,15,?,?
+G239273,Essential,?,?,Conditional phenotypes,?,4,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00017,7,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,"Auxotrophies, carbon and",PS00038,10,?,?
+G234834,Non-Essential,Ubiquitin-system proteins,?,?,PS00583,13,?,?
+G238783,Non-Essential,?,?,Cell morphology and organelle mutants,?,?,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00299,12,?,?
+G234470,Ambiguous-Essential,Major facilitator superfamily proteins (MFS),?,Stress response defects,PS00218,7,?,?
+G235705,Essential,?,Kinetochore protein complexes,Cell cycle defects,?,?,?,?
+G234531,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00017,9,?,?
+G238170,Non-Essential,?,?,?,?,16,?,?
+G239593,Non-Essential,?,?,?,PS00928,4,?,?
+G235901,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,?,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,Cell morphology and organelle mutants,PS01175,13,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,Nucleic acid metabolism defects,?,15,?,?
+G235454,Essential,?,RNA processing complexes,Cell morphology and organelle mutants,?,8,?,?
+G234711,Non-Essential,Transcription factors,?,?,PS00343,12,?,?
+G239830,Essential,?,?,?,?,12,?,?
+G234087,Essential,ATPases,Replication complexes,Nucleic acid metabolism defects,PS00847,?,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,15,?,?
+G235454,Essential,?,Mitochondrial translocase complex,Cell morphology and organelle mutants,?,8,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Cell morphology and organelle mutants,PS00755,12,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,15,?,?
+G235268,Essential,?,Kinetochore protein complexes,Cell cycle defects,?,4,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,16,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS00017,4,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,5,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial",Cell morphology and organelle mutants,PS00017,2,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,16,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,?,15,?,?
+G237529,Essential,?,?,Carbohydrate and lipid biosynthesis defects,?,2,?,?
+G235685,Essential,?,Intracellular transport complexes,?,?,13,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Cell morphology and organelle mutants,PS00690,5,?,?
+G234470,Ambiguous-Essential,Major facilitator superfamily proteins (MFS),?,Stress response defects,PS00218,7,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,14,?,?
+G235595,Non-Essential,?,Translation complexes,?,PS00017,?,?,?
+G234773,Non-Essential,ATPases,?,Nucleic acid metabolism defects,PS00017,13,?,?
+G235770,Non-Essential,?,Gim complexes,Cell morphology and organelle mutants,?,14,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00637,6,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00972,4,?,?
+G237700,Non-Essential,?,?,?,?,15,?,?
+G237587,Ambiguous-Essential,?,?,"Auxotrophies, carbon and",PS00174,2,?,?
+G234394,Essential,Actins,Cytoskeleton,Conditional phenotypes,PS00406,6,?,?
+G236099,Essential,?,?,Cell cycle defects,?,7,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,16,?,?
+G235220,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00402,4,?,?
+G237429,Non-Essential,?,?,Unknown,?,13,?,?
+G237116,?,?,?,?,?,8,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell morphology and organelle mutants,?,4,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00017,16,?,?
+G234203,Essential,Polymerases,Replication complexes,Conditional phenotypes,PS00116,4,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,8,?,?
+G235405,?,?,RNA processing complexes,Conditional phenotypes,?,7,?,?
+G235567,Essential,?,Transcription complexes/Transcriptosome,?,?,11,?,?
+G235538,Essential,?,Replication complexes,Nucleic acid metabolism defects,?,10,?,?
+G235547,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,10,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Stress response defects,?,1,?,?
+G237375,Non-Essential,?,?,?,?,7,?,?
+G235121,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,2,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00499,5,?,?
+G237587,Ambiguous-Essential,?,?,"Auxotrophies, carbon and",PS00765,2,?,?
+G235761,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,14,?,?
+G235466,Non-Essential,?,Translation complexes,?,PS00120,?,?,?
+G235612,Non-Essential,?,Histone acetyltransferase complexes,Nucleic acid metabolism defects,?,12,?,?
+G238800,Non-Essential,?,?,"Auxotrophies, carbon and",?,?,?,?
+G234992,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,15,?,?
+G239938,Non-Essential,?,?,Conditional phenotypes,PS00037,13,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,PS00038,10,?,?
+G234615,Essential,Actin related proteins,Intracellular transport complexes,Stress response defects,PS01132,10,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00017,7,?,?
+G234565,Essential,Proteases,Translocon,?,PS00761,9,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00107,7,?,?
+G235638,Non-Essential,?,Intracellular transport complexes,Unknown,?,12,?,?
+G234081,Non-Essential,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,PS00357,2,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Cell morphology and organelle mutants,?,5,?,?
+G235488,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Stress response defects,PS00678,9,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS00499,5,?,?
+G235149,Essential,?,RNA processing complexes,?,?,2,?,?
+G235848,Essential,?,Replication complexes,Cell cycle defects,PS00017,15,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Mating and sporulation defects,PS00299,12,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,16,?,?
+G238615,Non-Essential,?,?,?,?,8,?,?
+G234314,Non-Essential,Protein Kinases,?,Cell cycle defects,PS00108,4,?,?
+G238132,Non-Essential,?,?,Cell morphology and organelle mutants,?,16,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Nucleic acid metabolism defects,PS00501,13,?,?
+G238856,Essential,?,?,?,?,10,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00190,6,?,?
+G234802,Non-Essential,ATPases,Nonsense-mediated mRNA decay pathway complex,Sensitivity to aminoacid analogs and other drugs,PS00017,13,?,?
+G235402,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,PS00017,7,?,?
+G235183,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,?,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Conditional phenotypes,PS00017,4,?,?
+G234515,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,?,8,?,?
+G235150,Non-Essential,?,Translocon,Mating and sporulation defects,?,2,?,?
+G235778,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,14,?,?
+G237728,Non-Essential,?,?,Cell morphology and organelle mutants,PS00017,7,?,?
+G236523,Non-Essential,?,?,Cell cycle defects,PS00633,12,?,?
+G236066,Essential,?,?,Cell morphology and organelle mutants,PS00951,2,?,?
+G239830,Essential,?,?,?,?,12,?,?
+G234189,?,Transcription factors,?,?,PS00017,3,?,?
+G235538,Essential,?,Replication complexes,Cell cycle defects,?,10,?,?
+G234573,Essential,ATPases,Translocon,?,PS00297,10,?,?
+G235268,Essential,?,Kinetochore protein complexes,Cell cycle defects,?,4,?,?
+G234203,Essential,Polymerases,Replication complexes,Nucleic acid metabolism defects,PS00116,4,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Mating and sporulation defects,PS01019,4,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00108,7,?,?
+G234977,Non-Essential,ATPases,"H+-transporting ATPase, vacuolar",Cell morphology and organelle mutants,?,15,?,?
+G234728,Ambiguous-Essential,Ubiquitin-system proteins,Translation complexes,?,PS00190,12,?,?
+G238048,Non-Essential,?,?,"Auxotrophies, carbon and",PS01184,?,?,?
+G235069,Essential,Polymerases,Transcription complexes/Transcriptosome,?,PS00446,?,?,?
+G235319,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,5,?,?
+G235220,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00678,4,?,?
+G234412,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,?,7,?,?
+G240462,?,?,?,Conditional phenotypes,?,12,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00973,4,?,?
+G235565,Essential,?,?,Cell cycle defects,?,?,?,?
+G234394,Essential,Actins,Cytoskeleton,Conditional phenotypes,PS00432,6,?,?
+G235208,Non-Essential,?,Translation complexes,?,?,4,?,?
+G238723,Essential,?,?,Conditional phenotypes,?,7,?,?
+G234741,Essential,Molecular chaperones,?,?,PS00296,12,?,?
+G235875,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,16,?,?
+G235795,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,14,?,?
+G235770,Non-Essential,?,Gim complexes,Unknown,?,14,?,?
+G237986,?,?,?,?,?,3,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,16,?,?
+G235353,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,6,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,16,?,?
+G235761,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,14,?,?
+G239938,Non-Essential,?,?,Conditional phenotypes,PS00037,13,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,5,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G235352,Essential,?,Proteasome,?,PS00854,6,?,?
+G239593,Non-Essential,?,?,?,PS00927,4,?,?
+G235893,Non-Essential,?,RNA processing complexes,Cell cycle defects,?,16,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00190,6,?,?
+G237587,Ambiguous-Essential,?,?,"Auxotrophies, carbon and",PS00765,2,?,?
+G236831,Non-Essential,?,?,Conditional phenotypes,PS00028,4,?,?
+G235454,Essential,?,Mitochondrial translocase complex,Cell morphology and organelle mutants,?,8,?,?
+G234189,?,Transcription factors,?,?,PS00017,3,?,?
+G235299,Non-Essential,?,Respiration chain complexes,"Auxotrophies, carbon and",?,4,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,1,?,?
+G234534,Essential,Molecular chaperones,Mitochondrial translocase complex,Cell morphology and organelle mutants,PS00017,9,?,?
+G235446,Non-Essential,?,Intracellular transport complexes,?,PS00991,8,?,?
+G235033,Essential,Protein Kinases,Casein kinase,Nucleic acid metabolism defects,PS00108,16,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,16,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Stress response defects,PS01019,4,?,?
+G235638,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,12,?,?
+G237436,Non-Essential,?,?,Conditional phenotypes,PS00680,12,?,?
+G234565,Essential,Proteases,Translocon,?,PS00501,9,?,?
+G235424,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G234521,Non-Essential,Actin related proteins,?,Cell morphology and organelle mutants,PS01132,8,?,?
+G237392,Non-Essential,?,?,?,?,7,?,?
+G235804,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,15,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00973,4,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00626,7,?,?
+G236523,Non-Essential,?,?,Nucleic acid metabolism defects,PS00633,12,?,?
+G234273,Essential,Molecular chaperones,Chaperonine containing T-complex TRiC (TCP RING Complex),Conditional phenotypes,?,4,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Mating and sporulation defects,PS00017,4,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00871,12,?,?
+G234780,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00463,13,?,?
+G234203,Essential,Polymerases,Replication complexes,Cell cycle defects,PS00116,4,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,"Auxotrophies, carbon and",PS00017,4,?,?
+G234414,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,PS00687,7,?,?
+G234405,Essential,ATPases,?,Cell cycle defects,PS00211,?,?,?
+G234940,Non-Essential,GTP-binding proteins,?,Cell morphology and organelle mutants,?,15,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00499,5,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G240462,?,?,?,"Auxotrophies, carbon and",?,12,?,?
+G235767,Essential,?,Mitochondrial translocase complex,?,?,14,?,?
+G235488,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Stress response defects,PS00678,9,?,?
+G235917,Non-Essential,?,RNA processing complexes,Conditional phenotypes,?,?,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,Cell morphology and organelle mutants,PS00038,10,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00107,7,?,?
+G235319,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,5,?,?
+G234790,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00183,13,?,?
+G234273,Essential,Molecular chaperones,Chaperonine containing T-complex TRiC (TCP RING Complex),Conditional phenotypes,?,4,?,?
+G235414,Essential,?,Sister chromatid cohesion regulation complex,Cell cycle defects,?,?,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Conditional phenotypes,PS00017,7,?,?
+G234175,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00736,3,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",PS00108,16,?,?
+G235602,Essential,?,RNA processing complexes,Nucleic acid metabolism defects,PS00037,12,?,?
+G235109,Essential,?,RNA processing complexes,?,?,2,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00297,10,?,?
+G236279,Non-Essential,?,?,?,PS00866,7,?,?
+G235354,Essential,?,Proteasome,Cell cycle defects,?,6,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Conditional phenotypes,PS00755,12,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00870,12,?,?
+G236955,Non-Essential,?,?,"Auxotrophies, carbon and",?,?,?,?
+G234785,Non-Essential,Tubulins,Cytoskeleton,Cell morphology and organelle mutants,PS00227,?,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00108,7,?,?
+G237196,Non-Essential,?,?,?,?,16,?,?
+G234773,Non-Essential,ATPases,?,Conditional phenotypes,PS00030,13,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G235367,Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,7,?,?
+G235705,Essential,?,Kinetochore protein complexes,Cell cycle defects,?,?,?,?
+G240040,Essential,?,?,?,?,10,?,?
+G235354,Essential,?,Proteasome,Nucleic acid metabolism defects,?,6,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,5,?,?
+G234945,Essential,Polymerases,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00190,15,?,?
+G235337,Essential,?,RNA processing complexes,Conditional phenotypes,PS00012,5,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G234175,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00736,3,?,?
+G239681,Non-Essential,?,?,?,?,12,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00299,12,?,?
+G238905,Non-Essential,?,?,?,?,2,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Cell cycle defects,?,5,?,?
+G234927,Ambiguous-Non-Essential,Polymerases,Transcription complexes/Transcriptosome,?,?,15,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,5,?,?
+G234965,Essential,Polymerases,Transcription complexes/Transcriptosome,?,PS01112,?,?,?
+G235569,Non-Essential,?,RNA processing complexes,?,?,11,?,?
+G234333,Non-Essential,Proteases,?,?,PS00136,5,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell cycle defects,PS00406,6,?,?
+G234298,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00865,4,?,?
+G234199,Essential,Ubiquitin-system proteins,?,Cell cycle defects,PS00183,4,?,?
+G234780,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00463,13,?,?
+G234798,Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00350,13,?,?
+G240291,Essential,?,?,Cell morphology and organelle mutants,?,9,?,?
+G235466,Non-Essential,?,Translation complexes,?,PS00120,?,?,?
+G240072,Non-Essential,?,?,Stress response defects,PS01047,14,?,?
+G236838,Non-Essential,?,?,Conditional phenotypes,PS00013,12,?,?
+G235315,Essential,?,Proteasome,Conditional phenotypes,?,?,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00636,6,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,"Auxotrophies, carbon and",PS00301,4,?,?
+G238429,Non-Essential,?,?,?,?,16,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Conditional phenotypes,?,2,?,?
+G234573,Essential,ATPases,Translocon,?,PS00297,10,?,?
+G235367,Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,7,?,?
+G234490,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00028,8,?,?
+G234283,Non-Essential,ATPases,?,?,PS01047,4,?,?
+G235055,Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,?,?,16,?,?
+G235775,Essential,?,?,Cell cycle defects,?,?,?,?
+G234515,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,?,8,?,?
+G237337,Non-Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G236758,Non-Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00870,12,?,?
+G239162,Non-Essential,?,?,Conditional phenotypes,PS00215,4,?,?
+G237406,Essential,?,?,Conditional phenotypes,PS00225,?,?,?
+G234570,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,?,10,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00299,12,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Cell morphology and organelle mutants,PS00017,7,?,?
+G234531,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00017,9,?,?
+G234974,Essential,ATPases,Proteasome,Conditional phenotypes,?,15,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell cycle defects,PS00432,6,?,?
+G234881,Essential,Polymerases,Replication complexes,Unknown,?,14,?,?
+G234743,Non-Essential,Protein phosphatases,Synaptonemal complex (SC),Nucleic acid metabolism defects,?,12,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Nucleic acid metabolism defects,PS00761,13,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00972,4,?,?
+G235179,Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,PS00626,?,?,?
+G235362,Essential,?,RNA processing complexes,Conditional phenotypes,PS00030,?,?,?
+G234299,Essential,ATPases,Proteasome,?,?,4,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00017,16,?,?
+G235605,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00325,12,?,?
+G235446,Non-Essential,?,Intracellular transport complexes,?,PS00991,8,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",PS00038,10,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Nucleic acid metabolism defects,PS00501,13,?,?
+G239681,Non-Essential,?,?,?,?,12,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",PS00108,16,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Sensitivity to aminoacid analogs and other drugs,?,5,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,PS00108,16,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00972,4,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS01159,5,?,?
+G234617,Non-Essential,GTP-binding proteins,?,?,PS00294,10,?,?
+G234739,Essential,ATPases,Translation complexes,Sensitivity to antibiotics,PS00017,12,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00973,4,?,?
+G237387,Non-Essential,?,?,Cell cycle defects,?,14,?,?
+G234411,Essential,ATPases,"H+-ATPase, plasma mebrane",Sensitivity to aminoacid analogs and other drugs,PS00154,7,?,?
+G235377,Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00678,7,?,?
+G236523,Non-Essential,?,?,Stress response defects,PS00633,12,?,?
+G234773,Non-Essential,ATPases,?,Nucleic acid metabolism defects,PS00030,13,?,?
+G235538,Essential,?,Replication complexes,Nucleic acid metabolism defects,?,10,?,?
+G234511,Essential,Nucleases,RNA processing complexes,Nucleic acid metabolism defects,?,?,?,?
+G234140,Non-Essential,ATPases,?,?,PS00017,2,?,?
+G236066,Essential,?,?,Cell morphology and organelle mutants,PS00952,2,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell morphology and organelle mutants,PS00406,6,?,?
+G235916,Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00782,?,?,?
+G235855,?,?,Proteasome,?,PS00387,15,?,?
+G240407,Non-Essential,?,?,?,PS00191,13,?,?
+G234573,Essential,ATPases,Translocon,?,PS00329,10,?,?
+G239273,Essential,?,?,Cell cycle defects,?,4,?,?
+G236771,Non-Essential,?,?,Cell morphology and organelle mutants,PS00599,?,?,?
+G234728,Ambiguous-Essential,Ubiquitin-system proteins,Translation complexes,?,PS00190,12,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,8,?,?
+G237100,Non-Essential,?,?,Conditional phenotypes,?,11,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00329,10,?,?
+G235275,Non-Essential,?,Respiration chain complexes,"Auxotrophies, carbon and",?,4,?,?
+G235318,Non-Essential,?,Isocitrate lyase,"Auxotrophies, carbon and",PS00161,5,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00674,16,?,?
+G234790,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00183,13,?,?
+G234573,Essential,ATPases,Translocon,?,PS00297,10,?,?
+G235393,Non-Essential,?,Hexokinase 2,Mating and sporulation defects,PS00378,7,?,?
+G235909,Essential,?,Replication complexes,Conditional phenotypes,PS00847,16,?,?
+G234314,Non-Essential,Protein Kinases,?,"Auxotrophies, carbon and",PS00108,4,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,"Auxotrophies, carbon and",PS00038,10,?,?
+G239593,Non-Essential,?,?,?,PS00927,4,?,?
+G234521,Non-Essential,Actin related proteins,?,Cell morphology and organelle mutants,PS01132,8,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,2,?,?
+G235356,Essential,?,Translocon,Conditional phenotypes,?,7,?,?
+G235149,Essential,?,RNA processing complexes,?,?,2,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS01046,2,?,?
+G234314,Non-Essential,Protein Kinases,?,"Auxotrophies, carbon and",PS00108,4,?,?
+G234087,Essential,ATPases,Replication complexes,Nucleic acid metabolism defects,PS00847,?,?,?
+G235224,Non-Essential,?,Translocon,Conditional phenotypes,?,4,?,?
+G235220,Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00678,4,?,?
+G234283,Non-Essential,ATPases,?,?,PS00154,4,?,?
+G238447,Non-Essential,?,?,?,?,3,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,5,?,?
+G239593,Non-Essential,?,?,?,PS00927,4,?,?
+G240072,Non-Essential,?,?,Stress response defects,PS01047,14,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,14,?,?
+G235533,Non-Essential,?,Transcription complexes/Transcriptosome,?,?,10,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Nucleic acid metabolism defects,?,14,?,?
+G237026,Non-Essential,?,?,?,PS00074,15,?,?
+G235118,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00012,2,?,?
+G236919,Essential,?,?,Conditional phenotypes,?,10,?,?
+G235186,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,4,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,1,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00499,5,?,?
+G234802,Non-Essential,ATPases,Nonsense-mediated mRNA decay pathway complex,Sensitivity to aminoacid analogs and other drugs,PS00017,13,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,16,?,?
+G235848,Essential,?,Replication complexes,Conditional phenotypes,PS00017,15,?,?
+G234741,Essential,Molecular chaperones,?,?,PS00296,12,?,?
+G235562,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,11,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,16,?,?
+G235339,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00017,?,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to aminoacid analogs and other drugs,PS00036,6,?,?
+G234739,Essential,ATPases,Translation complexes,Sensitivity to antibiotics,PS00211,12,?,?
+G237587,Ambiguous-Essential,?,?,Cell cycle defects,PS00765,2,?,?
+G235547,Non-Essential,?,Cytoskeleton,Cell cycle defects,?,10,?,?
+G235646,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,12,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Cell cycle defects,?,5,?,?
+G235705,Essential,?,Kinetochore protein complexes,Conditional phenotypes,?,?,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G235893,Non-Essential,?,RNA processing complexes,Cell cycle defects,?,16,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Stress response defects,?,16,?,?
+G238400,Non-Essential,?,?,?,?,9,?,?
+G239588,Non-Essential,?,?,"Auxotrophies, carbon and",?,10,?,?
+G235291,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,4,?,?
+G235186,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,4,?,?
+G236771,Non-Essential,?,?,Conditional phenotypes,PS00599,?,?,?
+G234683,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,?,11,?,?
+G237429,Non-Essential,?,?,Unknown,?,13,?,?
+G234698,Non-Essential,GTP/GDP-exchange factors (GEFs),?,?,PS00720,12,?,?
+G234739,Essential,ATPases,Translation complexes,Unknown,PS00211,12,?,?
+G235638,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,12,?,?
+G234490,Non-Essential,Transcription factors,?,Unknown,PS00028,8,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00017,16,?,?
+G234679,Non-Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,?,?,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G235055,Essential,Cyclins,Transcription complexes/Transcriptosome,?,?,16,?,?
+G234739,Essential,ATPases,Translation complexes,Cell morphology and organelle mutants,PS00017,12,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00017,12,?,?
+G235612,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,12,?,?
+G239913,Ambiguous-Non-Essential,?,?,?,?,15,?,?
+G235256,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,PS00017,4,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00871,12,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Stress response defects,PS01019,4,?,?
+G235705,Essential,?,Kinetochore protein complexes,Conditional phenotypes,?,?,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,5,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,8,?,?
+G234339,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS00017,5,?,?
+G235901,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,?,?,?
+G236831,Non-Essential,?,?,Stress response defects,PS00028,4,?,?
+G234743,Non-Essential,Protein phosphatases,Synaptonemal complex (SC),Nucleic acid metabolism defects,?,12,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00017,10,?,?
+G237321,Non-Essential,?,?,Nucleic acid metabolism defects,?,7,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G235541,Non-Essential,?,Translocon,?,?,10,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Cell morphology and organelle mutants,PS00755,12,?,?
+G236661,Non-Essential,?,?,?,PS00017,12,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,5,?,?
+G234256,?,?,?,?,?,4,?,?
+G239971,Essential,?,?,?,PS00678,9,?,?
+G235931,?,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,16,?,?
+G235908,Non-Essential,?,Assembly complexes,Nucleic acid metabolism defects,?,16,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,2,?,?
+G234490,Non-Essential,Transcription factors,?,Unknown,PS00028,8,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,14,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00017,16,?,?
+G235882,Essential,?,Intracellular transport complexes,?,PS00017,16,?,?
+G235770,Non-Essential,?,Gim complexes,Unknown,?,14,?,?
+G234739,Essential,ATPases,Translation complexes,Unknown,PS00017,12,?,?
+G234615,Essential,Actin related proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS01132,10,?,?
+G235646,Essential,?,Cytoskeleton,Cell cycle defects,?,12,?,?
+G239922,Non-Essential,?,?,?,?,16,?,?
+G235284,Essential,?,Translation complexes,?,PS00030,4,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Cell morphology and organelle mutants,PS00017,5,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,2,?,?
+G235385,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G238920,Non-Essential,?,?,Nucleic acid metabolism defects,PS00136,?,?,?
+G235352,Essential,?,Proteasome,?,PS00854,6,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Mating and sporulation defects,PS00299,12,?,?
+G235393,Non-Essential,?,Hexokinase 2,Mating and sporulation defects,PS00378,7,?,?
+G240040,Essential,?,?,?,?,10,?,?
+G235328,Non-Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,5,?,?
+G234861,Essential,Polymerases,Replication complexes,Cell cycle defects,PS00116,14,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS01159,5,?,?
+G234940,Non-Essential,GTP-binding proteins,?,Cell morphology and organelle mutants,?,15,?,?
+G234470,Ambiguous-Essential,Major facilitator superfamily proteins (MFS),?,Stress response defects,PS00218,7,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,PS00108,16,?,?
+G234773,Non-Essential,ATPases,?,Conditional phenotypes,PS00030,13,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,7,?,?
+G238723,Essential,?,?,Cell cycle defects,?,7,?,?
+G234573,Essential,ATPases,Translocon,?,PS00014,10,?,?
+G237406,Essential,?,?,Conditional phenotypes,PS00225,?,?,?
+G234515,Non-Essential,Transcription factors,?,Conditional phenotypes,?,8,?,?
+G234958,Essential,Transcription factors,Transcription complexes/Transcriptosome,?,?,15,?,?
+G239974,Non-Essential,?,?,"Auxotrophies, carbon and",PS00480,3,?,?
+G235904,Non-Essential,?,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",?,?,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to antibiotics,PS00036,6,?,?
+G235602,Essential,?,RNA processing complexes,Conditional phenotypes,PS00037,12,?,?
+G239911,Non-Essential,?,?,Conditional phenotypes,?,?,?,?
+G235646,Essential,?,Cytoskeleton,Conditional phenotypes,?,12,?,?
+G235602,Essential,?,RNA processing complexes,Conditional phenotypes,PS00037,12,?,?
+G235339,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,PS00017,?,?,?
+G234094,Non-Essential,Transcription factors,?,Mating and sporulation defects,PS00463,2,?,?
+G235389,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00973,4,?,?
+G237059,Non-Essential,?,?,Conditional phenotypes,PS01202,2,?,?
+G237728,Non-Essential,?,?,Cell morphology and organelle mutants,PS00017,7,?,?
+G235121,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,2,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",PS00038,10,?,?
+G235933,Non-Essential,?,?,?,PS00215,13,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G234679,Non-Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,?,?,?,?
+G234258,?,Protein Kinases,?,?,?,4,?,?
+G239273,Essential,?,?,Cell cycle defects,?,4,?,?
+G234791,Non-Essential,GTP-binding proteins,Translation complexes,?,PS00017,13,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to antibiotics,PS00036,6,?,?
+G234175,Non-Essential,Transcription factors,?,Mating and sporulation defects,PS00736,3,?,?
+G234570,Non-Essential,Cyclins,Transcription complexes/Transcriptosome,Conditional phenotypes,?,10,?,?
+G235900,Non-Essential,?,Intracellular transport complexes,?,PS00914,16,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,7,?,?
+G234062,Non-Essential,ATPases,Respiration chain complexes,?,PS00152,?,?,?
+G239922,Non-Essential,?,?,?,?,16,?,?
+G235638,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,12,?,?
+G235746,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,13,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00434,7,?,?
+G236279,Non-Essential,?,?,?,PS00866,7,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00108,7,?,?
+G235236,Essential,?,RNA processing complexes,?,?,4,?,?
+G235917,Non-Essential,?,RNA processing complexes,Conditional phenotypes,?,?,?,?
+G235186,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,4,?,?
+G235695,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,?,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00434,7,?,?
+G235215,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,4,?,?
+G234289,Essential,Polymerases,Transcription complexes/Transcriptosome,?,?,4,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00190,6,?,?
+G238723,Essential,?,?,Nucleic acid metabolism defects,?,7,?,?
+G234521,Non-Essential,Actin related proteins,?,Cell morphology and organelle mutants,PS01132,8,?,?
+G235605,Essential,?,Cytoskeleton,Conditional phenotypes,PS00325,12,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00499,5,?,?
+G234298,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS00865,4,?,?
+G234573,Essential,ATPases,Translocon,?,PS00014,10,?,?
+G235505,Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,9,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Stress response defects,?,1,?,?
+G235367,Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,7,?,?
+G234573,Essential,ATPases,Translocon,?,PS00297,10,?,?
+G234298,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00865,4,?,?
+G234161,Non-Essential,Protein Kinases,?,?,PS00017,3,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,8,?,?
+G235541,Non-Essential,?,Translocon,?,?,10,?,?
+G240057,Essential,?,?,?,?,16,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00017,16,?,?
+G235369,Non-Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,7,?,?
+G237337,Non-Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G240200,Non-Essential,?,?,Mating and sporulation defects,PS00486,?,?,?
+G236099,Essential,?,?,Cell cycle defects,?,7,?,?
+G234573,Essential,ATPases,Translocon,?,PS00329,10,?,?
+G238584,Non-Essential,?,?,?,?,8,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS01159,5,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00017,10,?,?
+G239060,?,?,?,?,PS00017,?,?,?
+G235414,Essential,?,Sister chromatid cohesion regulation complex,Cell morphology and organelle mutants,?,?,?,?
+G238063,Essential,?,?,Conditional phenotypes,?,15,?,?
+G240237,Non-Essential,?,?,?,?,12,?,?
+G236985,Essential,?,?,Nucleic acid metabolism defects,?,10,?,?
+G235511,Essential,?,Translocon,?,?,10,?,?
+G235315,Essential,?,Proteasome,Conditional phenotypes,?,?,?,?
+G235537,Non-Essential,?,Translation complexes,?,PS00054,10,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial",Cell morphology and organelle mutants,PS01046,2,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,8,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS01159,5,?,?
+G237587,Ambiguous-Essential,?,?,Cell cycle defects,PS00174,2,?,?
+G234688,Essential,ATPases,RNA processing complexes,Conditional phenotypes,PS00017,?,?,?
+G238447,Non-Essential,?,?,?,?,3,?,?
+G239911,Non-Essential,?,?,Conditional phenotypes,?,?,?,?
+G234711,Non-Essential,Transcription factors,?,?,PS00463,12,?,?
+G235224,Non-Essential,?,Translocon,Carbohydrate and lipid biosynthesis defects,?,4,?,?
+G235770,Non-Essential,?,Gim complexes,Cell morphology and organelle mutants,?,14,?,?
+G236066,Essential,?,?,Cell morphology and organelle mutants,PS00952,2,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",PS00108,16,?,?
+G235232,Non-Essential,?,"Alpha, alpha-trehalose-phosphate synthase",Conditional phenotypes,?,4,?,?
+G234791,Non-Essential,GTP-binding proteins,Translation complexes,?,PS00017,13,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,5,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to aminoacid analogs and other drugs,PS00036,6,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00674,16,?,?
+G234314,Non-Essential,Protein Kinases,?,"Auxotrophies, carbon and",PS00107,4,?,?
+G235318,Non-Essential,?,Isocitrate lyase,"Auxotrophies, carbon and",PS00161,5,?,?
+G235150,Non-Essential,?,Translocon,Mating and sporulation defects,?,2,?,?
+G239399,?,?,?,Mating and sporulation defects,?,?,?,?
+G235567,Essential,?,Transcription complexes/Transcriptosome,?,?,11,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00297,10,?,?
+G239520,Essential,?,?,Sensitivity to antibiotics,?,2,?,?
+G235121,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,2,?,?
+G235255,Essential,?,?,?,?,4,?,?
+G235082,Essential,Polymerases,Replication complexes,Unknown,PS00179,?,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,16,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,16,?,?
+G234531,Non-Essential,ATPases,?,?,PS00017,9,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,8,?,?
+G239364,Non-Essential,?,?,?,?,11,?,?
+G236523,Non-Essential,?,?,Stress response defects,PS00633,12,?,?
+G238783,Non-Essential,?,?,Cell morphology and organelle mutants,?,?,?,?
+G235761,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,14,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,"Auxotrophies, carbon and",PS00038,10,?,?
+G237321,Non-Essential,?,?,Conditional phenotypes,?,7,?,?
+G237154,Non-Essential,?,?,Conditional phenotypes,?,10,?,?
+G235673,Essential,?,Transcription complexes/Transcriptosome,?,?,13,?,?
+G234651,Non-Essential,Adaptins,Intracellular transport complexes,?,?,11,?,?
+G234094,Non-Essential,Transcription factors,?,Mating and sporulation defects,PS00463,2,?,?
+G234671,Essential,Other kinases,?,Sensitivity to immunosuppressants,?,11,?,?
+G235337,Essential,?,RNA processing complexes,Conditional phenotypes,PS00012,5,?,?
+G240200,Non-Essential,?,?,Cell cycle defects,PS00486,?,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,5,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00107,7,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,7,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,Cell morphology and organelle mutants,PS00038,10,?,?
+G236021,Non-Essential,?,?,Conditional phenotypes,PS00215,4,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS00017,4,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,7,?,?
+G236279,Non-Essential,?,?,?,PS00188,7,?,?
+G235275,Non-Essential,?,Respiration chain complexes,"Auxotrophies, carbon and",?,4,?,?
+G234215,Essential,ATPases,Chaperonine containing T-complex TRiC (TCP RING Complex),?,PS00750,4,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,16,?,?
+G234739,Essential,ATPases,Translation complexes,Cell morphology and organelle mutants,PS00211,12,?,?
+G234683,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,?,11,?,?
+G237429,Non-Essential,?,?,Sensitivity to aminoacid analogs and other drugs,?,13,?,?
+G234977,Non-Essential,ATPases,"H+-transporting ATPase, vacuolar",Cell morphology and organelle mutants,?,15,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,8,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,1,?,?
+G235761,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,14,?,?
+G234785,Non-Essential,GTP-binding proteins,Cytoskeleton,Mating and sporulation defects,PS00227,?,?,?
+G234490,Non-Essential,Transcription factors,?,Conditional phenotypes,PS00028,8,?,?
+G234773,Non-Essential,ATPases,?,Conditional phenotypes,PS00017,13,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G235511,Essential,?,Translocon,?,?,10,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00499,5,?,?
+G239588,Non-Essential,?,?,"Auxotrophies, carbon and",?,10,?,?
+G236279,Non-Essential,?,?,?,PS00188,7,?,?
+G235354,Essential,?,Proteasome,Conditional phenotypes,?,6,?,?
+G239913,Ambiguous-Non-Essential,?,?,?,?,15,?,?
+G235595,Non-Essential,?,Translation complexes,?,PS00039,?,?,?
+G236606,?,?,?,?,?,16,?,?
+G235354,Essential,?,Proteasome,Conditional phenotypes,?,6,?,?
+G234806,Non-Essential,Motorproteins,Cytoskeleton,?,PS00017,13,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",PS00108,16,?,?
+G234094,Non-Essential,Transcription factors,?,Mating and sporulation defects,PS00463,2,?,?
+G234534,Essential,Molecular chaperones,Mitochondrial translocase complex,Cell morphology and organelle mutants,PS00017,9,?,?
+G235096,Essential,?,Transcription complexes/Transcriptosome,?,PS00017,?,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00017,12,?,?
+G234298,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS00865,4,?,?
+G235596,Essential,?,Transcription complexes/Transcriptosome,?,?,11,?,?
+G235511,Essential,?,Translocon,?,?,10,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS01046,2,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,Cell morphology and organelle mutants,PS00038,10,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Mating and sporulation defects,PS00017,4,?,?
+G234573,Essential,ATPases,Translocon,?,PS00017,10,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00870,12,?,?
+G234573,Essential,ATPases,Translocon,?,PS00329,10,?,?
+G238170,Non-Essential,?,?,?,?,16,?,?
+G234273,Essential,ATPases,Chaperonine containing T-complex TRiC (TCP RING Complex),Conditional phenotypes,?,4,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,8,?,?
+G239847,Non-Essential,?,?,?,?,13,?,?
+G240380,Non-Essential,?,?,?,?,12,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G237747,Non-Essential,?,?,?,?,7,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Mating and sporulation defects,PS00299,12,?,?
+G235055,Essential,Cyclins,Transcription complexes/Transcriptosome,?,?,16,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00625,7,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00017,16,?,?
+G235319,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,5,?,?
+G234175,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00735,3,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00674,16,?,?
+G238048,Non-Essential,?,?,"Auxotrophies, carbon and",PS01183,?,?,?
+G238375,Non-Essential,?,?,?,?,4,?,?
+G235220,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00402,4,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Nucleic acid metabolism defects,?,14,?,?
+G239060,?,?,?,?,PS00463,?,?,?
+G235893,Non-Essential,?,RNA processing complexes,Cell cycle defects,?,16,?,?
+G234834,Non-Essential,Ubiquitin-system proteins,?,?,PS00583,13,?,?
+G234389,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00036,6,?,?
+G235507,Essential,?,Cytoskeleton,Cell cycle defects,PS00018,9,?,?
+G234579,Non-Essential,Transcription factors,?,Conditional phenotypes,PS00463,10,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS01019,4,?,?
+G235108,Essential,?,Transcription complexes/Transcriptosome,?,?,2,?,?
+G235033,Essential,Protein Kinases,Casein kinase,Nucleic acid metabolism defects,PS00108,16,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00190,6,?,?
+G236985,Essential,?,?,Nucleic acid metabolism defects,?,10,?,?
+G234739,Essential,ATPases,Translation complexes,Sensitivity to antibiotics,PS00211,12,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS00499,5,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Nucleic acid metabolism defects,PS00501,13,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,14,?,?
+G235356,Essential,?,Translocon,Conditional phenotypes,?,7,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,8,?,?
+G234743,Non-Essential,Protein phosphatases,Synaptonemal complex (SC),Mating and sporulation defects,?,12,?,?
+G234615,Essential,Actin related proteins,Intracellular transport complexes,Stress response defects,PS01132,10,?,?
+G234683,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,?,11,?,?
+G238809,Non-Essential,?,?,Nucleic acid metabolism defects,?,8,?,?
+G235488,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Stress response defects,PS00678,9,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Mating and sporulation defects,PS01019,4,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS00499,5,?,?
+G234750,Essential,GTP-binding proteins,?,?,?,12,?,?
+G235882,Essential,?,Intracellular transport complexes,?,PS00343,16,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00972,4,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,16,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00017,12,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,Cell morphology and organelle mutants,PS00017,4,?,?
+G235224,Non-Essential,?,Translocon,Carbohydrate and lipid biosynthesis defects,?,4,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Carbohydrate and lipid biosynthesis defects,?,5,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Cell cycle defects,PS00017,7,?,?
+G235909,Essential,?,Replication complexes,Cell cycle defects,PS00847,16,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,Mating and sporulation defects,?,15,?,?
+G234175,Non-Essential,Transcription factors,?,Mating and sporulation defects,PS00735,3,?,?
+G240237,Non-Essential,?,?,?,?,12,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Mating and sporulation defects,PS00108,16,?,?
+G234739,Essential,ATPases,Translation complexes,Unknown,PS00211,12,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00973,4,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Conditional phenotypes,?,1,?,?
+G234633,Non-Essential,Transcription factors,?,?,PS00463,11,?,?
+G234728,Ambiguous-Essential,Ubiquitin-system proteins,Translation complexes,?,PS00299,12,?,?
+G234798,Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00350,13,?,?
+G234671,Essential,Other kinases,?,Sensitivity to immunosuppressants,?,11,?,?
+G237321,Non-Essential,?,?,Conditional phenotypes,?,7,?,?
+G234414,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,PS00687,7,?,?
+G235232,Non-Essential,?,"Alpha, alpha-trehalose-phosphate synthase",Conditional phenotypes,?,4,?,?
+G238783,Non-Essential,?,?,Nucleic acid metabolism defects,?,?,?,?
+G234414,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,PS00028,7,?,?
+G234813,Non-Essential,Proteases,"Proteases, mitochondrial",?,PS00501,?,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00017,12,?,?
+G235882,Essential,?,Intracellular transport complexes,?,PS00343,16,?,?
+G235362,Essential,?,RNA processing complexes,Conditional phenotypes,PS00678,?,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to antibiotics,PS00036,6,?,?
+G235538,Essential,?,Replication complexes,Cell morphology and organelle mutants,?,10,?,?
+G234951,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00434,15,?,?
+G234179,?,Transcription factors,?,?,?,3,?,?
+G239304,Non-Essential,?,?,Mating and sporulation defects,PS00225,10,?,?
+G236812,Essential,?,?,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G234203,Essential,Polymerases,Replication complexes,Unknown,PS00116,4,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,8,?,?
+G239520,Essential,?,?,Sensitivity to antibiotics,?,2,?,?
+G235901,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,?,?,?
+G240296,Essential,?,?,"Auxotrophies, carbon and",PS00379,?,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,1,?,?
+G234573,Essential,ATPases,Translocon,?,PS00017,10,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",?,15,?,?
+G235055,Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,?,?,16,?,?
+G238375,Non-Essential,?,?,?,?,4,?,?
+G237126,Essential,?,?,Cell morphology and organelle mutants,PS00678,?,?,?
+G234215,Essential,Molecular chaperones,Chaperonine containing T-complex TRiC (TCP RING Complex),?,PS00750,4,?,?
+G234785,Non-Essential,GTP-binding proteins,Cytoskeleton,Cell morphology and organelle mutants,PS00227,?,?,?
+G235589,Non-Essential,?,Translation complexes,?,?,11,?,?
+G235150,Non-Essential,?,Translocon,Conditional phenotypes,?,2,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS01019,4,?,?
+G235094,Non-Essential,?,Respiration chain complexes,"Auxotrophies, carbon and",PS00078,?,?,?
+G238132,Non-Essential,?,?,Cell morphology and organelle mutants,?,16,?,?
+G235376,Non-Essential,?,Translation complexes,Conditional phenotypes,PS01199,7,?,?
+G234147,Essential,Polymerases,Transcription complexes/Transcriptosome,Conditional phenotypes,?,2,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00973,4,?,?
+G239938,Non-Essential,?,?,Cell morphology and organelle mutants,PS00037,13,?,?
+G237124,Essential,?,?,Conditional phenotypes,?,13,?,?
+G235795,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,14,?,?
+G235587,Non-Essential,?,RNA processing complexes,?,?,11,?,?
+G234881,Essential,Polymerases,Replication complexes,Unknown,?,14,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Stress response defects,PS00761,13,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00434,7,?,?
+G235176,Non-Essential,?,Translation complexes,?,PS00054,3,?,?
+G234140,Non-Essential,ATPases,?,?,PS00017,2,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,5,?,?
+G236985,Essential,?,?,Cell cycle defects,?,10,?,?
+G235679,Essential,?,RNA processing complexes,?,?,?,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell morphology and organelle mutants,PS00432,6,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,14,?,?
+G237358,Non-Essential,?,?,?,?,3,?,?
+G240407,Non-Essential,?,?,?,PS00557,13,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00626,7,?,?
+G235668,Non-Essential,?,Translation complexes,Cell morphology and organelle mutants,?,?,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Stress response defects,PS00761,13,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Nucleic acid metabolism defects,PS00761,13,?,?
+G235595,Non-Essential,?,Translation complexes,?,PS00017,?,?,?
+G235232,Non-Essential,?,"Alpha, alpha-trehalose-phosphate synthase",Conditional phenotypes,?,4,?,?
+G235232,Non-Essential,?,"Alpha, alpha-trehalose-phosphate synthase",Conditional phenotypes,?,4,?,?
+G236523,Non-Essential,?,?,"Auxotrophies, carbon and",PS00633,12,?,?
+G235875,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,16,?,?
+G240440,Non-Essential,?,?,?,?,4,?,?
+G239520,Essential,?,?,Sensitivity to antibiotics,?,2,?,?
+G240185,Essential,?,?,?,?,2,?,?
+G236523,Non-Essential,?,?,Conditional phenotypes,PS00633,12,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00972,4,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,Cell morphology and organelle mutants,PS01175,13,?,?
+G236066,Essential,?,?,Cell morphology and organelle mutants,PS00952,2,?,?
+G235224,Non-Essential,?,Translocon,Sensitivity to antibiotics,?,4,?,?
+G235493,Essential,?,Exocyst complex,Cell morphology and organelle mutants,?,9,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,8,?,?
+G235402,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,PS00017,7,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00674,16,?,?
+G235695,Non-Essential,?,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,?,?,?,?
+G235668,Non-Essential,?,Translation complexes,"Auxotrophies, carbon and",?,?,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,5,?,?
+G234062,Non-Essential,ATPases,Respiration chain complexes,?,PS00152,?,?,?
+G234739,Essential,ATPases,Translation complexes,Sensitivity to antibiotics,PS00211,12,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Conditional phenotypes,?,1,?,?
+G235507,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00018,9,?,?
+G235208,Non-Essential,?,Translation complexes,?,?,4,?,?
+G235150,Non-Essential,?,Translocon,Conditional phenotypes,?,2,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00674,16,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,1,?,?
+G235752,Non-Essential,?,Histone deacetylase complexes,Nucleic acid metabolism defects,?,14,?,?
+G237196,Non-Essential,?,?,?,?,16,?,?
+G235237,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00237,4,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,Nucleic acid metabolism defects,?,15,?,?
+G237436,Non-Essential,?,?,Conditional phenotypes,PS00680,12,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell morphology and organelle mutants,PS00432,6,?,?
+G234062,Non-Essential,ATPases,Respiration chain complexes,?,PS00152,?,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,8,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00972,4,?,?
+G234785,Non-Essential,GTP-binding proteins,Cytoskeleton,Cell morphology and organelle mutants,PS00227,?,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00626,7,?,?
+G235393,Non-Essential,?,Hexokinase 2,Mating and sporulation defects,PS00378,7,?,?
+G235183,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,?,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,Cell morphology and organelle mutants,PS00038,10,?,?
+G235538,Essential,?,Replication complexes,Nucleic acid metabolism defects,?,10,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Nucleic acid metabolism defects,PS00761,13,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,PS00038,10,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,5,?,?
+G236279,Non-Essential,?,?,?,PS00867,7,?,?
+G235268,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G234742,Non-Essential,GTP-binding proteins,?,Conditional phenotypes,?,?,?,?
+G234531,Non-Essential,ATPases,?,?,PS00211,9,?,?
+G234698,Non-Essential,GTP/GDP-exchange factors (GEFs),?,?,PS00720,12,?,?
+G238609,Non-Essential,?,?,?,?,?,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,Nucleic acid metabolism defects,PS01175,13,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,8,?,?
+G234573,Essential,ATPases,Translocon,?,PS00329,10,?,?
+G239856,Essential,?,?,Cell morphology and organelle mutants,?,13,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",?,1,?,?
+G240492,Non-Essential,?,?,?,?,15,?,?
+G238147,Non-Essential,?,?,Mating and sporulation defects,?,?,?,?
+G238662,Non-Essential,?,?,Nucleic acid metabolism defects,?,2,?,?
+G235505,Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,9,?,?
+G234573,Essential,ATPases,Translocon,?,PS00329,10,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Stress response defects,PS00501,13,?,?
+G234742,Non-Essential,GTP-binding proteins,?,Cell morphology and organelle mutants,?,?,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,8,?,?
+G234534,Essential,Molecular chaperones,Mitochondrial translocase complex,Cell morphology and organelle mutants,PS00017,9,?,?
+G235055,Essential,Cyclins,Transcription complexes/Transcriptosome,?,?,16,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS00499,5,?,?
+G235507,Essential,?,Cytoskeleton,Cell cycle defects,PS00018,9,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00972,4,?,?
+G234273,Essential,Molecular chaperones,Chaperonine containing T-complex TRiC (TCP RING Complex),Cell morphology and organelle mutants,?,4,?,?
+G240200,Non-Essential,?,?,Mating and sporulation defects,PS00486,?,?,?
+G240227,Non-Essential,?,?,?,?,10,?,?
+G235328,Non-Essential,?,Nuclear pore complex (NPC),Cell morphology and organelle mutants,?,5,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00674,16,?,?
+G238132,Non-Essential,?,?,Stress response defects,?,16,?,?
+G237406,Essential,?,?,Cell cycle defects,PS00225,?,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G236812,Essential,?,?,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G234097,Non-Essential,Major facilitator superfamily proteins (MFS),Nuclear pore complex (NPC),Conditional phenotypes,?,2,?,?
+G235055,Essential,Cyclins,Transcription complexes/Transcriptosome,?,?,16,?,?
+G235104,Essential,?,?,Cell morphology and organelle mutants,?,?,?,?
+G234633,Non-Essential,Transcription factors,?,?,PS00463,11,?,?
+G237587,Ambiguous-Essential,?,?,Cell cycle defects,PS00174,2,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,7,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell morphology and organelle mutants,PS00406,6,?,?
+G235900,Non-Essential,?,Intracellular transport complexes,?,PS00914,16,?,?
+G234813,Non-Essential,Proteases,"Proteases, mitochondrial",?,PS00760,?,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00434,7,?,?
+G236831,Non-Essential,?,?,Cell morphology and organelle mutants,PS00028,4,?,?
+G238783,Non-Essential,?,?,Conditional phenotypes,?,?,?,?
+G239922,Non-Essential,?,?,?,?,16,?,?
+G234189,?,Transcription factors,?,?,PS00463,3,?,?
+G235339,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,PS00017,?,?,?
+G238905,Non-Essential,?,?,?,?,2,?,?
+G240492,Non-Essential,?,?,?,?,15,?,?
+G235533,Non-Essential,?,Transcription complexes/Transcriptosome,?,?,10,?,?
+G235507,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00018,9,?,?
+G235848,Essential,?,Replication complexes,Nucleic acid metabolism defects,PS00017,15,?,?
+G239273,Essential,?,?,Conditional phenotypes,?,4,?,?
+G236523,Non-Essential,?,?,Nucleic acid metabolism defects,PS00633,12,?,?
+G234992,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,15,?,?
+G235354,Essential,?,Proteasome,Stress response defects,?,6,?,?
+G234750,Essential,GTP-binding proteins,?,?,?,12,?,?
+G237656,Non-Essential,?,?,?,?,15,?,?
+G236919,Essential,?,?,Conditional phenotypes,?,10,?,?
+G235387,Ambiguous-Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00402,7,?,?
+G234515,Non-Essential,Transcription factors,?,Cell cycle defects,?,8,?,?
+G238723,Essential,?,?,Conditional phenotypes,?,7,?,?
+G235562,Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,11,?,?
+G237747,Non-Essential,?,?,?,?,7,?,?
+G235612,Non-Essential,?,Histone acetyltransferase complexes,Nucleic acid metabolism defects,?,12,?,?
+G236838,Non-Essential,?,?,Cell morphology and organelle mutants,PS00013,12,?,?
+G234137,Non-Essential,Motorproteins,Cytoskeleton,?,?,2,?,?
+G234120,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,2,?,?
+G234791,Non-Essential,GTP-binding proteins,RNA processing complexes,?,PS00017,13,?,?
+G234112,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00153,2,?,?
+G235904,Non-Essential,?,Histone acetyltransferase complexes,"Auxotrophies, carbon and",?,?,?,?
+G239572,Non-Essential,?,?,Cell morphology and organelle mutants,PS00017,16,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to antibiotics,PS00036,6,?,?
+G234570,Non-Essential,Cyclins,Transcription complexes/Transcriptosome,Conditional phenotypes,?,10,?,?
+G235520,Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,10,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Cell cycle defects,PS00017,7,?,?
+G238800,Non-Essential,?,?,"Auxotrophies, carbon and",?,?,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00299,12,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00625,7,?,?
+G238615,Non-Essential,?,?,?,?,8,?,?
+G235291,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,4,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Nucleic acid metabolism defects,PS00017,5,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Conditional phenotypes,PS00755,12,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00107,7,?,?
+G234389,Non-Essential,Transcription factors,?,Sensitivity to aminoacid analogs and other drugs,PS00036,6,?,?
+G235848,Essential,?,Replication complexes,Nucleic acid metabolism defects,PS00017,15,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,"Auxotrophies, carbon and",PS00038,10,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Conditional phenotypes,?,4,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,Conditional phenotypes,?,15,?,?
+G239971,Essential,?,?,?,PS00678,9,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell morphology and organelle mutants,?,4,?,?
+G240407,Non-Essential,?,?,?,PS00557,13,?,?
+G237670,Essential,?,?,?,?,2,?,?
+G235503,Non-Essential,?,Cytoskeleton,?,?,9,?,?
+G234743,Non-Essential,Protein phosphatases,Synaptonemal complex (SC),Nucleic acid metabolism defects,?,12,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell morphology and organelle mutants,PS00406,6,?,?
+G238856,Essential,?,?,?,?,10,?,?
+G234739,Essential,ATPases,Translation complexes,Cell morphology and organelle mutants,PS00211,12,?,?
+G234641,Non-Essential,Motorproteins,Cytoskeleton,?,?,11,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00017,7,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Mating and sporulation defects,PS00108,16,?,?
+G235319,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,5,?,?
+G234834,Non-Essential,Ubiquitin-system proteins,?,?,PS00299,13,?,?
+G234314,Non-Essential,Protein Kinases,?,Cell cycle defects,PS00107,4,?,?
+G234671,Essential,Other kinases,?,Cell morphology and organelle mutants,?,11,?,?
+G234922,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",?,15,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G235392,Non-Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,?,?,?
+G235377,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00678,7,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00674,16,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial",Cell morphology and organelle mutants,PS00017,2,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Cell morphology and organelle mutants,PS00690,5,?,?
+G235673,Essential,?,Transcription complexes/Transcriptosome,?,?,13,?,?
+G235767,Essential,?,Mitochondrial translocase complex,?,?,14,?,?
+G234531,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00211,9,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,PS00108,16,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00017,7,?,?
+G237153,Non-Essential,?,?,?,?,12,?,?
+G234515,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,?,8,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,16,?,?
+G234698,Non-Essential,GTP/GDP-exchange factors (GEFs),?,?,PS00720,12,?,?
+G235337,Essential,?,RNA processing complexes,Mating and sporulation defects,PS00012,5,?,?
+G235337,Essential,?,RNA processing complexes,Conditional phenotypes,PS00017,5,?,?
+G235299,Non-Essential,?,Respiration chain complexes,"Auxotrophies, carbon and",?,4,?,?
+G235804,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,15,?,?
+G235440,Essential,?,Proteasome,Mating and sporulation defects,PS00388,7,?,?
+G235931,?,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,16,?,?
+G234741,Essential,Molecular chaperones,?,?,PS00296,12,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS00017,2,?,?
+G234671,Essential,Other kinases,?,Cell morphology and organelle mutants,?,11,?,?
+G235882,Essential,?,Intracellular transport complexes,?,PS00343,16,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00299,12,?,?
+G234671,Essential,Other kinases,?,Cell morphology and organelle mutants,?,11,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G235848,Essential,?,Replication complexes,Conditional phenotypes,PS00017,15,?,?
+G234742,Non-Essential,GTP-binding proteins,?,Conditional phenotypes,?,?,?,?
+G235602,Essential,?,RNA processing complexes,Nucleic acid metabolism defects,PS00037,12,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00014,10,?,?
+G234671,Essential,Other kinases,?,Sensitivity to immunosuppressants,?,11,?,?
+G234161,Non-Essential,Protein Kinases,?,?,PS00108,3,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Stress response defects,?,1,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00636,6,?,?
+G234806,Non-Essential,Motorproteins,Cytoskeleton,?,PS00017,13,?,?
+G235423,Non-Essential,?,Translation complexes,Conditional phenotypes,?,7,?,?
+G235160,Essential,?,?,Cell morphology and organelle mutants,?,2,?,?
+G239574,Essential,?,?,?,?,12,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Mating and sporulation defects,PS01019,4,?,?
+G235328,Non-Essential,?,Nuclear pore complex (NPC),Cell morphology and organelle mutants,?,5,?,?
+G237429,Non-Essential,?,?,Cell morphology and organelle mutants,?,13,?,?
+G234922,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",?,15,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00625,7,?,?
+G237529,Essential,?,?,Carbohydrate and lipid biosynthesis defects,?,2,?,?
+G235268,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00017,10,?,?
+G235354,Essential,?,Proteasome,Nucleic acid metabolism defects,?,6,?,?
+G234742,Non-Essential,GTP-binding proteins,?,Cell morphology and organelle mutants,?,?,?,?
+G235367,Essential,?,Nuclear pore complex (NPC),Cell morphology and organelle mutants,?,7,?,?
+G235446,Non-Essential,?,Intracellular transport complexes,?,PS00990,8,?,?
+G234181,Non-Essential,Transcription factors,?,?,PS00658,3,?,?
+G234268,Non-Essential,Ubiquitin-system proteins,?,?,?,4,?,?
+G234773,Non-Essential,ATPases,?,Conditional phenotypes,PS00017,13,?,?
+G240462,?,?,?,Cell morphology and organelle mutants,?,12,?,?
+G234268,Non-Essential,Ubiquitin-system proteins,?,?,?,4,?,?
+G235424,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Cell cycle defects,PS00017,7,?,?
+G235761,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,14,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00017,7,?,?
+G235635,Essential,?,RNA processing complexes,Conditional phenotypes,PS00017,12,?,?
+G234199,Essential,Ubiquitin-system proteins,?,Cell cycle defects,PS00183,4,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,Cell morphology and organelle mutants,PS00301,4,?,?
+G234181,Non-Essential,Transcription factors,?,?,PS00657,3,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,PS00108,16,?,?
+G238429,Non-Essential,?,?,?,?,16,?,?
+G234618,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell cycle defects,?,10,?,?
+G235224,Non-Essential,?,Translocon,Conditional phenotypes,?,4,?,?
+G234364,?,Protein Kinases,Casein kinase,?,PS00108,5,?,?
+G235668,Non-Essential,?,Translation complexes,"Auxotrophies, carbon and",?,?,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Mating and sporulation defects,PS00017,4,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,"Auxotrophies, carbon and",PS00038,10,?,?
+G235520,Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,10,?,?
+G235385,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,7,?,?
+G239938,Non-Essential,?,?,Cell morphology and organelle mutants,PS00037,13,?,?
+G235719,Non-Essential,?,Intracellular transport complexes,?,PS00914,13,?,?
+G236831,Non-Essential,?,?,Stress response defects,PS00028,4,?,?
+G235770,Non-Essential,?,Gim complexes,Conditional phenotypes,?,14,?,?
+G234592,Non-Essential,Unknown,Transcription complexes/Transcriptosome,?,?,10,?,?
+G239273,Essential,?,?,Nucleic acid metabolism defects,?,4,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,7,?,?
+G234645,Non-Essential,Proteases,?,?,?,?,?,?
+G234971,Essential,Molecular chaperones,?,?,PS01071,15,?,?
+G234711,Non-Essential,Transcription factors,?,?,PS00463,12,?,?
+G235507,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00018,9,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Conditional phenotypes,PS00755,12,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00871,12,?,?
+G234612,Non-Essential,Transcription factors,Kinetochore protein complexes,Cell morphology and organelle mutants,PS00038,10,?,?
+G235746,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,PS00017,13,?,?
+G237116,?,?,?,?,?,8,?,?
+G234081,Non-Essential,Histones,Nucleosomal protein complex,"Auxotrophies, carbon and",PS00357,2,?,?
+G234273,Essential,ATPases,Chaperonine containing T-complex TRiC (TCP RING Complex),Conditional phenotypes,?,4,?,?
+G234203,Essential,Polymerases,Replication complexes,Cell cycle defects,PS00116,4,?,?
+G234617,Non-Essential,GTP-binding proteins,?,?,PS00294,10,?,?
+G234711,Non-Essential,Transcription factors,?,?,PS00463,12,?,?
+G235605,Essential,?,Cytoskeleton,Conditional phenotypes,PS00325,12,?,?
+G234411,Essential,ATPases,"H+-ATPase, plasma mebrane",Sensitivity to aminoacid analogs and other drugs,PS00154,7,?,?
+G237406,Essential,?,?,Cell morphology and organelle mutants,PS00225,?,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,14,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00636,6,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,Nucleic acid metabolism defects,PS01175,13,?,?
+G234515,Non-Essential,Transcription factors,?,Cell cycle defects,?,8,?,?
+G235440,Essential,?,Proteasome,Mating and sporulation defects,PS00388,7,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Cell morphology and organelle mutants,?,1,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00674,16,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00299,12,?,?
+G234411,Essential,ATPases,"H+-ATPase, plasma mebrane",Sensitivity to aminoacid analogs and other drugs,PS00154,7,?,?
+G238809,Non-Essential,?,?,Nucleic acid metabolism defects,?,8,?,?
+G234743,Non-Essential,Protein phosphatases,Synaptonemal complex (SC),Mating and sporulation defects,?,12,?,?
+G234081,Non-Essential,Histones,Nucleosomal protein complex,Conditional phenotypes,PS00357,2,?,?
+G238723,Essential,?,?,Nucleic acid metabolism defects,?,7,?,?
+G238048,Non-Essential,?,?,"Auxotrophies, carbon and",PS01183,?,?,?
+G235709,?,?,?,?,?,13,?,?
+G235237,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00237,4,?,?
+G237196,Non-Essential,?,?,?,?,16,?,?
+G237358,Non-Essential,?,?,?,?,3,?,?
+G234573,Essential,ATPases,Translocon,?,PS00297,10,?,?
+G235507,Essential,?,Cytoskeleton,Cell cycle defects,PS00018,9,?,?
+G239847,Non-Essential,?,?,?,?,13,?,?
+G235414,Essential,?,Sister chromatid cohesion regulation complex,Cell cycle defects,?,?,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,PS00108,16,?,?
+G235291,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,4,?,?
+G234791,Non-Essential,GTP-binding proteins,RNA processing complexes,?,PS00017,13,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Cell morphology and organelle mutants,PS00755,12,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00190,6,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00434,7,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Cell morphology and organelle mutants,PS00017,7,?,?
+G237406,Essential,?,?,Cell morphology and organelle mutants,PS00225,?,?,?
+G235150,Non-Essential,?,Translocon,Cell morphology and organelle mutants,?,2,?,?
+G238609,Non-Essential,?,?,?,?,?,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,1,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,"Auxotrophies, carbon and",PS01175,13,?,?
+G234861,Essential,Polymerases,Replication complexes,Unknown,PS00116,14,?,?
+G234992,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,15,?,?
+G236771,Non-Essential,?,?,Conditional phenotypes,PS00599,?,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Mating and sporulation defects,?,14,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,5,?,?
+G234490,Non-Essential,Transcription factors,?,Conditional phenotypes,PS00028,8,?,?
+G234645,Non-Essential,Proteases,?,?,?,?,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Conditional phenotypes,?,4,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,Cell morphology and organelle mutants,PS00017,4,?,?
+G237587,Ambiguous-Essential,?,?,"Auxotrophies, carbon and",PS00174,2,?,?
+G235746,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,PS00017,13,?,?
+G239343,Non-Essential,?,?,?,?,2,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Nucleic acid metabolism defects,?,14,?,?
+G237126,Essential,?,?,Cell morphology and organelle mutants,PS00678,?,?,?
+G235108,Essential,?,Transcription complexes/Transcriptosome,?,?,2,?,?
+G234213,Non-Essential,GTP-binding proteins,?,?,PS01019,4,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,7,?,?
+G234974,Essential,ATPases,Proteasome,Conditional phenotypes,?,15,?,?
+G235440,Essential,?,Proteasome,Cell morphology and organelle mutants,PS00388,7,?,?
+G234414,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00028,7,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,15,?,?
+G240237,Non-Essential,?,?,?,?,12,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00434,7,?,?
+G235904,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,?,?,?
+G235392,Non-Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,?,?,?
+G239588,Non-Essential,?,?,Cell morphology and organelle mutants,?,10,?,?
+G236523,Non-Essential,?,?,Stress response defects,PS00633,12,?,?
+G234339,Non-Essential,ATPases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS00017,5,?,?
+G235369,Non-Essential,?,Nuclear pore complex (NPC),Mating and sporulation defects,?,7,?,?
+G234974,Essential,ATPases,Proteasome,Cell cycle defects,?,15,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,PS00108,16,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Conditional phenotypes,PS00017,4,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Mating and sporulation defects,PS00108,16,?,?
+G234573,Essential,ATPases,Translocon,?,PS00014,10,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,14,?,?
+G235377,Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00678,7,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00637,6,?,?
+G234433,Non-Essential,Protein Kinases,?,Stress response defects,PS00108,7,?,?
+G240296,Essential,?,?,Carbohydrate and lipid biosynthesis defects,PS00379,?,?,?
+G235901,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,?,?,?
+G234062,Non-Essential,ATPases,Respiration chain complexes,?,PS00152,?,?,?
+G234773,Non-Essential,ATPases,?,Conditional phenotypes,PS00017,13,?,?
+G234573,Essential,ATPases,Translocon,?,PS00014,10,?,?
+G235524,Non-Essential,?,Ornithine carbamoyltransferase,?,PS00097,10,?,?
+G235150,Non-Essential,?,Translocon,Cell morphology and organelle mutants,?,2,?,?
+G234515,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,?,8,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00636,6,?,?
+G234249,Non-Essential,Proteases,Proteasome,Cell cycle defects,PS00972,4,?,?
+G238132,Non-Essential,?,?,Stress response defects,?,16,?,?
+G234881,Essential,Polymerases,Replication complexes,Unknown,?,14,?,?
+G236838,Non-Essential,?,?,Cell morphology and organelle mutants,PS01188,12,?,?
+G235392,Non-Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,?,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial","Auxotrophies, carbon and",PS01046,2,?,?
+G234565,Essential,Proteases,Translocon,?,PS00501,9,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,Cell morphology and organelle mutants,PS01175,13,?,?
+G235860,Essential,?,RNA processing complexes,Conditional phenotypes,?,15,?,?
+G234515,Non-Essential,Transcription factors,?,Cell cycle defects,?,8,?,?
+G235909,Essential,?,Replication complexes,Conditional phenotypes,PS00847,16,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00014,10,?,?
+G235596,Essential,?,Transcription complexes/Transcriptosome,?,?,11,?,?
+G236736,Non-Essential,?,?,?,?,4,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G235770,Non-Essential,?,Gim complexes,Mating and sporulation defects,?,14,?,?
+G235179,Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,PS00626,?,?,?
+G239913,Ambiguous-Non-Essential,?,?,?,?,15,?,?
+G235933,Non-Essential,?,?,?,PS00215,13,?,?
+G234314,Non-Essential,Protein Kinases,?,Cell cycle defects,PS00107,4,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Mating and sporulation defects,PS00299,12,?,?
+G234739,Essential,ATPases,Translation complexes,Unknown,PS00017,12,?,?
+G239273,Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00870,12,?,?
+G235051,Non-Essential,GTP/GDP-exchange factors (GEFs),?,?,?,16,?,?
+G235770,Non-Essential,?,Gim complexes,Mating and sporulation defects,?,14,?,?
+G234161,Non-Essential,Protein Kinases,?,?,PS00017,3,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,7,?,?
+G235033,Essential,Protein Kinases,Casein kinase,Nucleic acid metabolism defects,PS00107,16,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,PS00108,16,?,?
+G234414,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,PS00028,7,?,?
+G235795,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,14,?,?
+G235719,Non-Essential,?,Intracellular transport complexes,?,PS00914,13,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Stress response defects,PS00017,4,?,?
+G234203,Essential,Polymerases,Replication complexes,Unknown,PS00116,4,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Mating and sporulation defects,PS00299,12,?,?
+G235104,Essential,?,?,Conditional phenotypes,?,?,?,?
+G234389,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00036,6,?,?
+G234125,Non-Essential,Protein Kinases,Unknown,Cell morphology and organelle mutants,?,2,?,?
+G234651,Non-Essential,Adaptins,Intracellular transport complexes,?,?,11,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,PS00108,16,?,?
+G236523,Non-Essential,?,?,Cell morphology and organelle mutants,PS00633,12,?,?
+G235916,Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,PS00782,?,?,?
+G234651,Non-Essential,Adaptins,Intracellular transport complexes,?,?,11,?,?
+G235328,Non-Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,5,?,?
+G237387,Non-Essential,?,?,Cell cycle defects,?,14,?,?
+G235587,Non-Essential,?,RNA processing complexes,?,?,11,?,?
+G234570,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,?,10,?,?
+G234794,Non-Essential,Proteases,"Proteases, mitochondrial",Stress response defects,PS00761,13,?,?
+G235224,Non-Essential,?,Translocon,Sensitivity to antibiotics,?,4,?,?
+G234618,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,Cell cycle defects,?,10,?,?
+G239913,Ambiguous-Non-Essential,?,?,?,?,15,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell cycle defects,PS00406,6,?,?
+G235804,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,15,?,?
+G235096,Essential,?,Transcription complexes/Transcriptosome,?,PS00017,?,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00637,6,?,?
+G234203,Essential,Polymerases,Replication complexes,Cell cycle defects,PS00116,4,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,15,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS00499,5,?,?
+G235291,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,4,?,?
+G235118,Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,PS00012,2,?,?
+G235405,?,?,RNA processing complexes,Conditional phenotypes,?,7,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,5,?,?
+G235354,Essential,?,Proteasome,Stress response defects,?,6,?,?
+G239911,Non-Essential,?,?,Cell morphology and organelle mutants,?,?,?,?
+G237375,Non-Essential,?,?,?,?,7,?,?
+G239974,Non-Essential,?,?,"Auxotrophies, carbon and",PS00480,3,?,?
+G234743,Non-Essential,Protein phosphatases,Synaptonemal complex (SC),Mating and sporulation defects,?,12,?,?
+G234299,Essential,ATPases,Proteasome,?,?,4,?,?
+G234739,Essential,ATPases,Translation complexes,Unknown,PS00017,12,?,?
+G235150,Non-Essential,?,Translocon,Mating and sporulation defects,?,2,?,?
+G235033,Essential,Protein Kinases,Casein kinase,Nucleic acid metabolism defects,PS00108,16,?,?
+G235748,Non-Essential,?,RNA processing complexes,Conditional phenotypes,?,13,?,?
+G235507,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00018,9,?,?
+G238723,Essential,?,?,Cell cycle defects,?,7,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G234414,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00028,7,?,?
+G235354,Essential,?,Proteasome,Sensitivity to aminoacid analogs and other drugs,?,6,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Mating and sporulation defects,?,14,?,?
+G234161,Non-Essential,Protein Kinases,?,?,PS00107,3,?,?
+G235354,Essential,?,Proteasome,Nucleic acid metabolism defects,?,6,?,?
+G234641,Non-Essential,Motorproteins,Cytoskeleton,?,?,11,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Conditional phenotypes,PS01019,4,?,?
+G235538,Essential,?,Replication complexes,Cell cycle defects,?,10,?,?
+G234247,Essential,Ubiquitin-system proteins,SCF (Skp1-Cdc53-F-box protein) complexes,Conditional phenotypes,?,4,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Mating and sporulation defects,?,14,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G235778,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,14,?,?
+G234741,Essential,ATPases,?,?,PS00296,12,?,?
+G234161,Non-Essential,Protein Kinases,?,?,PS00107,3,?,?
+G235537,Non-Essential,?,Translation complexes,?,PS00054,10,?,?
+G235354,Essential,?,Proteasome,Nucleic acid metabolism defects,?,6,?,?
+G238898,Essential,?,?,?,?,?,?,?
+G234579,Non-Essential,Transcription factors,?,Conditional phenotypes,PS00463,10,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Mating and sporulation defects,PS00674,16,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Mating and sporulation defects,?,1,?,?
+G235454,Essential,?,Mitochondrial translocase complex,Cell morphology and organelle mutants,?,8,?,?
+G234213,Non-Essential,GTP-binding proteins,?,?,PS01019,4,?,?
+G235233,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00017,4,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Conditional phenotypes,PS00017,4,?,?
+G234590,Non-Essential,Polymerases,Transcription complexes/Transcriptosome,Conditional phenotypes,?,10,?,?
+G235746,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,PS00017,13,?,?
+G234905,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Conditional phenotypes,?,15,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,Cell morphology and organelle mutants,PS00301,4,?,?
+G234977,Non-Essential,ATPases,"H+-transporting ATPase, vacuolar",Cell morphology and organelle mutants,?,15,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00674,16,?,?
+G236021,Non-Essential,?,?,Conditional phenotypes,PS00215,4,?,?
+G234758,Essential,Major facilitator superfamily proteins (MFS),Translocon,Cell morphology and organelle mutants,PS00755,12,?,?
+G235761,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,14,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,8,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,5,?,?
+G234314,Non-Essential,Protein Kinases,?,Cell cycle defects,PS00108,4,?,?
+G235752,Non-Essential,?,Histone deacetylase complexes,Nucleic acid metabolism defects,?,14,?,?
+G239911,Non-Essential,?,?,Cell morphology and organelle mutants,?,?,?,?
+G234086,Non-Essential,Proteases,"Proteases, mitochondrial",Cell morphology and organelle mutants,PS00017,2,?,?
+G235328,Non-Essential,?,Nuclear pore complex (NPC),Cell morphology and organelle mutants,?,5,?,?
+G234373,Non-Essential,Transcription factors,?,?,?,5,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Stress response defects,PS00017,4,?,?
+G234231,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00297,4,?,?
+G235685,Essential,?,Intracellular transport complexes,?,?,13,?,?
+G235752,Non-Essential,?,Histone deacetylase complexes,Nucleic acid metabolism defects,?,14,?,?
+G234314,Non-Essential,Protein Kinases,?,"Auxotrophies, carbon and",PS00107,4,?,?
+G235795,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,14,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00329,10,?,?
+G234573,Essential,ATPases,Translocon,?,PS00014,10,?,?
+G234181,Non-Essential,Transcription factors,?,?,PS00657,3,?,?
+G234785,Non-Essential,Tubulins,Cytoskeleton,Cell morphology and organelle mutants,PS00227,?,?,?
+G235454,Essential,?,RNA processing complexes,Cell morphology and organelle mutants,?,8,?,?
+G234298,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS00865,4,?,?
+G234739,Essential,ATPases,Translation complexes,Cell morphology and organelle mutants,PS00017,12,?,?
+G235110,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,2,?,?
+G235369,Non-Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,7,?,?
+G236985,Essential,?,?,Cell cycle defects,?,10,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,8,?,?
+G238800,Non-Essential,?,?,Stress response defects,?,?,?,?
+G239273,Essential,?,?,Nucleic acid metabolism defects,?,4,?,?
+G234283,Non-Essential,ATPases,?,?,PS01047,4,?,?
+G239162,Non-Essential,?,?,Cell morphology and organelle mutants,PS00215,4,?,?
+G235904,Non-Essential,?,Histone acetyltransferase complexes,Conditional phenotypes,?,?,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",PS00038,10,?,?
+G235111,Non-Essential,?,Translation complexes,Conditional phenotypes,?,2,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,7,?,?
+G235770,Non-Essential,?,Gim complexes,Conditional phenotypes,?,14,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,Cell morphology and organelle mutants,PS00017,4,?,?
+G234511,Essential,Nucleases,RNA processing complexes,Nucleic acid metabolism defects,?,?,?,?
+G235275,Non-Essential,?,Respiration chain complexes,"Auxotrophies, carbon and",?,4,?,?
+G235369,Non-Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,7,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Sensitivity to aminoacid analogs and other drugs,?,5,?,?
+G234861,Essential,Polymerases,Replication complexes,Cell cycle defects,PS00116,14,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,16,?,?
+G235487,Non-Essential,?,Transcription complexes/Transcriptosome,?,?,?,?,?
+G235770,Non-Essential,?,Gim complexes,Conditional phenotypes,?,14,?,?
+G235612,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,12,?,?
+G234739,Essential,ATPases,Translation complexes,Sensitivity to antibiotics,PS00017,12,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Nucleic acid metabolism defects,?,14,?,?
+G234565,Essential,Proteases,Translocon,?,PS00761,9,?,?
+G235183,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,?,?,?
+G234412,Non-Essential,Transcription factors,?,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G240200,Non-Essential,?,?,Cell cycle defects,PS00486,?,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Nucleic acid metabolism defects,PS00690,5,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Stress response defects,PS00674,16,?,?
+G239938,Non-Essential,?,?,Cell morphology and organelle mutants,PS00037,13,?,?
+G235367,Essential,?,Nuclear pore complex (NPC),Cell morphology and organelle mutants,?,7,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00014,10,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00017,10,?,?
+G235933,Non-Essential,?,?,?,PS00215,13,?,?
+G234081,Non-Essential,Histones,Nucleosomal protein complex,Conditional phenotypes,PS00357,2,?,?
+G239588,Non-Essential,?,?,Cell morphology and organelle mutants,?,10,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,7,?,?
+G234612,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",PS00038,10,?,?
+G237059,Non-Essential,?,?,Conditional phenotypes,PS01202,2,?,?
+G235547,Non-Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,10,?,?
+G234081,Non-Essential,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,PS00357,2,?,?
+G235256,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,PS00017,4,?,?
+G236523,Non-Essential,?,?,Conditional phenotypes,PS00633,12,?,?
+G234773,Non-Essential,ATPases,?,Conditional phenotypes,PS00030,13,?,?
+G236838,Non-Essential,?,?,Cell morphology and organelle mutants,PS00013,12,?,?
+G236380,?,?,?,?,?,7,?,?
+G235268,Essential,?,SCF (Skp1-Cdc53-F-box protein) complexes,Cell cycle defects,?,4,?,?
+G238905,Non-Essential,?,?,?,?,2,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",?,1,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,1,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,16,?,?
+G235638,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,12,?,?
+G235233,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00017,4,?,?
+G236523,Non-Essential,?,?,Conditional phenotypes,PS00633,12,?,?
+G234249,Non-Essential,Ubiquitin-system proteins,Proteasome,Cell cycle defects,PS00973,4,?,?
+G235325,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,5,?,?
+G234283,Non-Essential,ATPases,?,?,PS01047,4,?,?
+G235770,Non-Essential,?,Gim complexes,Cell morphology and organelle mutants,?,14,?,?
+G235220,Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00402,4,?,?
+G235337,Essential,?,RNA processing complexes,Mating and sporulation defects,PS00012,5,?,?
+G235547,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,10,?,?
+G234137,Non-Essential,Motorproteins,Cytoskeleton,?,?,2,?,?
+G234590,Non-Essential,Polymerases,Transcription complexes/Transcriptosome,Conditional phenotypes,?,10,?,?
+G235339,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,PS00017,?,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,16,?,?
+G235777,Essential,?,RNA processing complexes,Conditional phenotypes,?,14,?,?
+G235909,Essential,?,Replication complexes,Cell cycle defects,PS00847,16,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G235783,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,14,?,?
+G235507,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00018,9,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,15,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00871,12,?,?
+G234175,Non-Essential,Transcription factors,?,Mating and sporulation defects,PS00735,3,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,8,?,?
+G235389,Non-Essential,?,Intracellular transport complexes,Cell morphology and organelle mutants,?,7,?,?
+G238905,Non-Essential,?,?,?,?,2,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Conditional phenotypes,?,1,?,?
+G239664,Non-Essential,?,?,?,PS00052,10,?,?
+G234977,Non-Essential,ATPases,"H+-transporting ATPase, vacuolar",Cell morphology and organelle mutants,?,15,?,?
+G235362,Essential,?,RNA processing complexes,Conditional phenotypes,PS00678,?,?,?
+G234203,Essential,Polymerases,Replication complexes,Nucleic acid metabolism defects,PS00116,4,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,14,?,?
+G234394,Essential,Actins,Cytoskeleton,Conditional phenotypes,PS00406,6,?,?
+G234333,Non-Essential,Proteases,?,?,PS00137,5,?,?
+G237728,Non-Essential,?,?,Cell morphology and organelle mutants,PS00017,7,?,?
+G235369,Non-Essential,?,Nuclear pore complex (NPC),Mating and sporulation defects,?,7,?,?
+G235176,Non-Essential,?,Translation complexes,?,PS00054,3,?,?
+G234971,Essential,Molecular chaperones,?,?,PS01071,15,?,?
+G234470,Ambiguous-Essential,Major facilitator superfamily proteins (MFS),?,Stress response defects,PS00218,7,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Conditional phenotypes,?,5,?,?
+G234314,Non-Essential,Protein Kinases,?,Cell cycle defects,PS00107,4,?,?
+G237429,Non-Essential,?,?,Sensitivity to aminoacid analogs and other drugs,?,13,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00299,12,?,?
+G235562,Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,11,?,?
+G234283,Non-Essential,ATPases,?,?,PS00154,4,?,?
+G234215,Essential,ATPases,Chaperonine containing T-complex TRiC (TCP RING Complex),?,PS00750,4,?,?
+G235909,Essential,?,Replication complexes,Nucleic acid metabolism defects,PS00847,16,?,?
+G236661,Non-Essential,?,?,?,PS00017,12,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00107,8,?,?
+G237154,Non-Essential,?,?,Conditional phenotypes,?,10,?,?
+G235668,Non-Essential,?,Translation complexes,Cell morphology and organelle mutants,?,?,?,?
+G235831,Essential,?,Translocon,?,?,15,?,?
+G234951,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00434,15,?,?
+G234112,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00153,2,?,?
+G235775,Essential,?,?,Cell morphology and organelle mutants,?,?,?,?
+G238898,Essential,?,?,?,?,?,?,?
+G235507,Essential,?,Cytoskeleton,Cell cycle defects,PS00018,9,?,?
+G236736,Non-Essential,?,?,?,?,4,?,?
+G235446,Non-Essential,?,Intracellular transport complexes,?,PS00990,8,?,?
+G235901,Non-Essential,?,Cytoskeleton,Cell cycle defects,?,?,?,?
+G235354,Essential,?,Proteasome,Sensitivity to aminoacid analogs and other drugs,?,6,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,14,?,?
+G234414,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00028,7,?,?
+G235440,Essential,?,Proteasome,Cell morphology and organelle mutants,PS00388,7,?,?
+G234120,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,2,?,?
+G234490,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00028,8,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00017,7,?,?
+G235098,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,1,?,?
+G234940,Non-Essential,GTP-binding proteins,?,Conditional phenotypes,?,15,?,?
+G234641,Non-Essential,Motorproteins,Cytoskeleton,?,?,11,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Stress response defects,PS00017,4,?,?
+G235033,Essential,Protein Kinases,Casein kinase,Nucleic acid metabolism defects,PS00107,16,?,?
+G235112,Essential,?,Cytoskeleton,?,?,?,?,?
+G235305,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,5,?,?
+G234181,Non-Essential,Transcription factors,?,?,PS00658,3,?,?
+G234385,Non-Essential,Molecular chaperones,?,"Auxotrophies, carbon and",PS00637,6,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Cell morphology and organelle mutants,PS01019,4,?,?
+G234927,Ambiguous-Non-Essential,Polymerases,Transcription complexes/Transcriptosome,?,?,15,?,?
+G235517,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,?,?,?,?
+G239588,Non-Essential,?,?,Cell morphology and organelle mutants,?,10,?,?
+G237321,Non-Essential,?,?,Nucleic acid metabolism defects,?,7,?,?
+G239835,Non-Essential,?,?,Unknown,?,4,?,?
+G234773,Non-Essential,ATPases,?,Nucleic acid metabolism defects,PS00030,13,?,?
+G235389,Non-Essential,?,Intracellular transport complexes,Conditional phenotypes,?,7,?,?
+G234688,Essential,ATPases,RNA processing complexes,Conditional phenotypes,PS00017,?,?,?
+G235612,Non-Essential,?,Histone acetyltransferase complexes,Mating and sporulation defects,?,12,?,?
+G235888,Non-Essential,?,Transcription complexes/Transcriptosome,Cell morphology and organelle mutants,?,16,?,?
+G235778,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,14,?,?
+G236831,Non-Essential,?,?,Stress response defects,PS00028,4,?,?
+G234273,Essential,ATPases,Chaperonine containing T-complex TRiC (TCP RING Complex),Cell morphology and organelle mutants,?,4,?,?
+G234372,Non-Essential,GTPase activating proteins (GAPs),?,Cell morphology and organelle mutants,?,5,?,?
+G235311,Ambiguous-Essential,?,RNA processing complexes,Cell morphology and organelle mutants,PS00017,5,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00014,10,?,?
+G235354,Essential,?,Proteasome,Sensitivity to aminoacid analogs and other drugs,?,6,?,?
+G240291,Essential,?,?,Cell morphology and organelle mutants,?,9,?,?
+G235392,Non-Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,?,?,?
+G234125,Non-Essential,Protein Kinases,Unknown,Cell morphology and organelle mutants,?,2,?,?
+G238783,Non-Essential,?,?,Conditional phenotypes,?,?,?,?
+G234314,Non-Essential,Protein Kinases,?,Cell cycle defects,PS00108,4,?,?
+G235761,Non-Essential,?,Cytoskeleton,Mating and sporulation defects,?,14,?,?
+G234515,Non-Essential,Transcription factors,?,Conditional phenotypes,?,8,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Conditional phenotypes,PS01019,4,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,Mating and sporulation defects,?,15,?,?
+G234847,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,"Auxotrophies, carbon and",?,14,?,?
+G234633,Non-Essential,Transcription factors,?,?,PS00463,11,?,?
+G234688,Essential,ATPases,RNA processing complexes,Conditional phenotypes,PS00690,?,?,?
+G235276,Non-Essential,?,Translation complexes,?,?,4,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00299,12,?,?
+G235818,Non-Essential,?,Histone acetyltransferase complexes,"Auxotrophies, carbon and",?,15,?,?
+G235547,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,10,?,?
+G234802,Non-Essential,ATPases,Nonsense-mediated mRNA decay pathway complex,Sensitivity to aminoacid analogs and other drugs,PS00017,13,?,?
+G234790,Non-Essential,Ubiquitin-system proteins,?,Stress response defects,PS00183,13,?,?
+G235220,Essential,?,Intracellular transport complexes,Conditional phenotypes,PS00402,4,?,?
+G235775,Essential,?,?,Cell morphology and organelle mutants,?,?,?,?
+G234203,Essential,Polymerases,Replication complexes,Unknown,PS00116,4,?,?
+G238584,Non-Essential,?,?,?,?,8,?,?
+G234203,Essential,Polymerases,Replication complexes,Conditional phenotypes,PS00116,4,?,?
+G235284,Essential,?,Translation complexes,?,PS00030,4,?,?
+G234813,Non-Essential,Proteases,"Proteases, mitochondrial",?,PS00501,?,?,?
+G234389,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00036,6,?,?
+G234592,Non-Essential,Unknown,Transcription complexes/Transcriptosome,?,?,10,?,?
+G235794,Non-Essential,?,Histone deacetylase complexes,Sensitivity to aminoacid analogs and other drugs,?,14,?,?
+G234423,Essential,GTP/GDP-exchange factors (GEFs),?,Cell morphology and organelle mutants,PS00626,7,?,?
+G234216,Essential,ATPases,Proteasome,?,?,4,?,?
+G235571,Non-Essential,?,Translation complexes,?,?,11,?,?
+G236279,Non-Essential,?,?,?,PS00866,7,?,?
+G236066,Essential,?,?,Cell morphology and organelle mutants,PS00951,2,?,?
+G234773,Non-Essential,ATPases,?,Nucleic acid metabolism defects,PS00030,13,?,?
+G240296,Essential,?,?,"Auxotrophies, carbon and",PS00379,?,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,"Auxotrophies, carbon and",PS01175,13,?,?
+G235761,Non-Essential,?,Cytoskeleton,Conditional phenotypes,?,14,?,?
+G234213,Non-Essential,GTP-binding proteins,?,?,PS00017,4,?,?
+G240185,Essential,?,?,?,?,2,?,?
+G234062,Non-Essential,ATPases,Respiration chain complexes,?,PS00152,?,?,?
+G234785,Non-Essential,GTP-binding proteins,Cytoskeleton,Mating and sporulation defects,PS00227,?,?,?
+G235081,Non-Essential,ATPases,Intracellular transport complexes,Cell morphology and organelle mutants,PS00017,16,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00017,7,?,?
+G234531,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00211,9,?,?
+G235904,Non-Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,?,?,?
+G234485,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,8,?,?
+G235454,Essential,?,RNA processing complexes,Cell morphology and organelle mutants,?,8,?,?
+G235318,Non-Essential,?,Isocitrate lyase,"Auxotrophies, carbon and",PS00161,5,?,?
+G234175,Non-Essential,Transcription factors,?,Mating and sporulation defects,PS00736,3,?,?
+G239664,Non-Essential,?,?,?,PS00052,10,?,?
+G239825,Non-Essential,?,?,?,PS00187,12,?,?
+G235268,Essential,?,Kinetochore protein complexes,Cell cycle defects,?,4,?,?
+G235001,Non-Essential,Protein Kinases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Mating and sporulation defects,PS00108,16,?,?
+G237026,Non-Essential,?,?,?,PS00074,15,?,?
+G234965,Essential,Polymerases,Transcription complexes/Transcriptosome,?,PS01112,?,?,?
+G234515,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,?,8,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Cell morphology and organelle mutants,PS01159,5,?,?
+G235150,Non-Essential,?,Translocon,Conditional phenotypes,?,2,?,?
+G239167,Non-Essential,?,?,Conditional phenotypes,?,11,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00434,7,?,?
+G234837,Non-Essential,Nucleases,RNA processing complexes,Nucleic acid metabolism defects,PS01175,13,?,?
+G239162,Non-Essential,?,?,Conditional phenotypes,PS00215,4,?,?
+G234704,Non-Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00299,12,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS01159,5,?,?
+G234780,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00463,13,?,?
+G235605,Essential,?,Cytoskeleton,Conditional phenotypes,PS00325,12,?,?
+G234394,Essential,Actins,Cytoskeleton,Cell cycle defects,PS00432,6,?,?
+G235440,Essential,?,Proteasome,Mating and sporulation defects,PS00388,7,?,?
+G235224,Non-Essential,?,Translocon,Cell morphology and organelle mutants,?,4,?,?
+G234213,Non-Essential,GTP-binding proteins,?,?,PS00017,4,?,?
+G240327,Non-Essential,?,?,?,?,10,?,?
+G234971,Essential,Molecular chaperones,?,?,PS01071,15,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,15,?,?
+G239856,Essential,?,?,Cell morphology and organelle mutants,?,13,?,?
+G235362,Essential,?,RNA processing complexes,Conditional phenotypes,PS00030,?,?,?
+G235775,Essential,?,?,Cell cycle defects,?,?,?,?
+G239835,Non-Essential,?,?,Stress response defects,?,4,?,?
+G234992,Non-Essential,Major facilitator superfamily proteins (MFS),?,?,PS00218,15,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,?,14,?,?
+G235569,Non-Essential,?,RNA processing complexes,?,?,11,?,?
+G234268,Non-Essential,Ubiquitin-system proteins,?,?,?,4,?,?
+G236838,Non-Essential,?,?,Carbohydrate and lipid biosynthesis defects,PS00013,12,?,?
+G238048,Non-Essential,?,?,"Auxotrophies, carbon and",PS01184,?,?,?
+G235233,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,PS00017,4,?,?
+G235565,Essential,?,?,Cell cycle defects,?,?,?,?
+G234125,Non-Essential,Protein Kinases,Unknown,Cell morphology and organelle mutants,?,2,?,?
+G234573,Essential,ATPases,Translocon,?,PS00017,10,?,?
+G234515,Non-Essential,Transcription factors,?,Cell morphology and organelle mutants,?,8,?,?
+G235770,Non-Essential,?,Gim complexes,Mating and sporulation defects,?,14,?,?
+G235904,Non-Essential,?,Histone acetyltransferase complexes,"Auxotrophies, carbon and",?,?,?,?
+G234161,Non-Essential,Protein Kinases,?,?,PS00108,3,?,?
+G234739,Essential,ATPases,Translation complexes,Sensitivity to antibiotics,PS00017,12,?,?
+G238429,Non-Essential,?,?,?,?,16,?,?
+G235770,Non-Essential,?,Gim complexes,Conditional phenotypes,?,14,?,?
+G234385,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00636,6,?,?
+G234112,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00153,2,?,?
+G235097,Non-Essential,?,Nem1p-Spo7p complex,Mating and sporulation defects,?,1,?,?
+G236838,Non-Essential,?,?,Carbohydrate and lipid biosynthesis defects,PS00013,12,?,?
+G237429,Non-Essential,?,?,Cell morphology and organelle mutants,?,13,?,?
+G234314,Non-Essential,Protein Kinases,?,"Auxotrophies, carbon and",PS00108,4,?,?
+G237116,?,?,?,?,?,8,?,?
+G234203,Essential,Polymerases,Replication complexes,Conditional phenotypes,PS00116,4,?,?
+G236838,Non-Essential,?,?,Conditional phenotypes,PS00013,12,?,?
+G235928,Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,?,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00297,10,?,?
+G235487,Non-Essential,?,Transcription complexes/Transcriptosome,?,?,?,?,?
+G234289,Essential,Polymerases,Transcription complexes/Transcriptosome,?,?,4,?,?
+G240407,Non-Essential,?,?,?,PS00191,13,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G238809,Non-Essential,?,?,Cell cycle defects,?,8,?,?
+G238447,Non-Essential,?,?,?,?,3,?,?
+G234414,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,PS00028,7,?,?
+G235224,Non-Essential,?,Translocon,Sensitivity to antibiotics,?,4,?,?
+G235857,Non-Essential,?,Translation complexes,?,?,15,?,?
+G234861,Essential,Polymerases,Replication complexes,Unknown,PS00116,14,?,?
+G234226,Non-Essential,GTP-binding proteins,Intracellular transport complexes,Conditional phenotypes,PS01019,4,?,?
+G237321,Non-Essential,?,?,Nucleic acid metabolism defects,?,7,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00017,12,?,?
+G235337,Essential,?,RNA processing complexes,Mating and sporulation defects,PS00017,5,?,?
+G235533,Non-Essential,?,Transcription complexes/Transcriptosome,?,?,10,?,?
+G234412,Non-Essential,Transcription factors,?,Nucleic acid metabolism defects,?,7,?,?
+G235794,Non-Essential,?,Transcription complexes/Transcriptosome,Nucleic acid metabolism defects,?,14,?,?
+G235328,Non-Essential,?,Nuclear pore complex (NPC),Conditional phenotypes,?,5,?,?
+G236606,?,?,?,?,?,16,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00017,10,?,?
+G234653,Essential,Polymerases,Transcription complexes/Transcriptosome,?,?,?,?,?
+G234701,Non-Essential,Molecular chaperones,?,Conditional phenotypes,PS00870,12,?,?
+G234433,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,7,?,?
+G235928,Essential,?,Transcription complexes/Transcriptosome,Conditional phenotypes,?,?,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Conditional phenotypes,PS01159,5,?,?
+G234485,Non-Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00108,8,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,Cell morphology and organelle mutants,PS00301,4,?,?
+G235166,Essential,?,RNA processing complexes,?,?,2,?,?
+G235215,Non-Essential,?,Transcription complexes/Transcriptosome,Cell cycle defects,?,4,?,?
+G234728,Ambiguous-Essential,Ubiquitin-system proteins,Translation complexes,?,PS00299,12,?,?
+G235904,Non-Essential,?,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",?,?,?,?
+G234974,Essential,ATPases,Proteasome,Conditional phenotypes,?,15,?,?
+G235646,Essential,?,Cytoskeleton,Conditional phenotypes,?,12,?,?
+G239304,Non-Essential,?,?,Mating and sporulation defects,PS00225,10,?,?
+G236758,Non-Essential,?,?,Cell morphology and organelle mutants,?,4,?,?
+G234433,Non-Essential,Protein Kinases,?,Mating and sporulation defects,PS00108,7,?,?
+G234701,Non-Essential,ATPases,?,Conditional phenotypes,PS00870,12,?,?
+G236838,Non-Essential,?,?,Cell morphology and organelle mutants,PS01188,12,?,?
+G235878,Non-Essential,?,Intracellular transport complexes,Mating and sporulation defects,?,16,?,?
+G234419,Essential,Transcription factors,?,Conditional phenotypes,PS00017,7,?,?
+G236955,Non-Essential,?,?,"Auxotrophies, carbon and",?,?,?,?
+G234419,Essential,Transcription factors,?,Cell morphology and organelle mutants,PS00434,7,?,?
+G234213,Non-Essential,GTP-binding proteins,?,?,PS00017,4,?,?
+G235150,Non-Essential,?,Translocon,Mating and sporulation defects,?,2,?,?
+G234389,Non-Essential,Transcription factors,?,"Auxotrophies, carbon and",PS00036,6,?,?
+G235423,Non-Essential,?,Translation complexes,Conditional phenotypes,?,7,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Conditional phenotypes,PS00017,7,?,?
+G234419,Essential,Transcription factors,?,Cell cycle defects,PS00434,7,?,?
+G234847,Non-Essential,Polymerases,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell morphology and organelle mutants,?,14,?,?
+G234442,Non-Essential,Motorproteins,Cytoskeleton,Conditional phenotypes,PS00017,7,?,?
+G234267,Essential,GTP-binding proteins,Translation complexes,"Auxotrophies, carbon and",PS00301,4,?,?
+G236838,Non-Essential,?,?,Carbohydrate and lipid biosynthesis defects,PS01188,12,?,?
+G235595,Non-Essential,?,Translation complexes,?,PS00039,?,?,?
+G234097,Non-Essential,Major facilitator superfamily proteins (MFS),Nuclear pore complex (NPC),Conditional phenotypes,?,2,?,?
+G234215,Essential,Molecular chaperones,Chaperonine containing T-complex TRiC (TCP RING Complex),?,PS00750,4,?,?
+G234365,Essential,Ubiquitin-system proteins,?,Sensitivity to aminoacid analogs and other drugs,PS00499,5,?,?
+G234573,Essential,Molecular chaperones,Translocon,?,PS00297,10,?,?
+G234412,Non-Essential,Transcription factors,?,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G235476,Essential,?,Anaphase promoting complex (APC),Conditional phenotypes,?,8,?,?
+G234573,Essential,ATPases,Translocon,?,PS00017,10,?,?
+G235356,Essential,?,Translocon,Sensitivity to aminoacid analogs and other drugs,?,7,?,?
+G235898,?,?,Transcription complexes/Transcriptosome,?,?,16,?,?
+G235354,Essential,?,Proteasome,Stress response defects,?,6,?,?
+G235106,Essential,?,RNA processing complexes,?,?,1,?,?
+G239399,?,?,?,Mating and sporulation defects,?,?,?,?
+G235679,Essential,?,RNA processing complexes,?,?,?,?,?
+G235562,Essential,?,Anaphase promoting complex (APC),Cell cycle defects,?,11,?,?
+G235605,Essential,?,Cytoskeleton,Cell morphology and organelle mutants,PS00325,12,?,?
+G234112,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00153,2,?,?
+G235818,Non-Essential,?,Transcription complexes/Transcriptosome,"Auxotrophies, carbon and",?,15,?,?
